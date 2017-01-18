@@ -27,6 +27,6 @@ for task in lstTasks:
 #lstOrderedTasks = sorted([(occurence,task) for task,occurence in dctWordCount.items()],reverse=True)
 lstOrderedTasks = sorted(dctWordCount.items(), key=lambda x:x[1],reverse=True)
 
-with open("SimpleWordOccurence.txt","w") as outputFile:
+with open("4_SimpleWordOccurence.txt","w") as outputFile:
 	for val in lstOrderedTasks:		
 			outputFile.write("\t".join([str(x) for x in val]) + "\n")
