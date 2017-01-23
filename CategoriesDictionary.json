@@ -1,0 +1,20 @@
+{
+	"jaro": 
+		["jardo", "jardom", "jarino"], 
+	"tomas": 
+		["tomasov"], 
+	"peto": 
+		["petom","peta","petov","petovi"], 
+	"testovanie": 
+		["testov","testing","testy","otestovanie","testu"], 
+	"sentinel": 
+		["sentinelu","sentinelom"],
+	"kalibracia": 
+		["kalibracnych","kalibracie","kalibracne","kalibrov","kalibraciu","kalibracii","rekalibracia","kalibracna","kalibracneho","calibration"],
+	"vyhodnotenie": 
+		["vyhodnoteni","evaluation"],
+	"s-line": 
+		["sline"],
+	"ado": 
+		["ada"]
+}
