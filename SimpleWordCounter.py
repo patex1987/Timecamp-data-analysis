@@ -18,7 +18,14 @@ def CreateListFromFile(strFileName, charLevelSeparator, lstRemoveChars):
 						word = word[1:]
 					lstTasks.append(word.lower())						
 	return lstTasks
-			
+
+def DelTasksFromDict(strJsonFileName, dctWordCount):
+	lstDeleteCategories = jsonbyteify.json_loads_byteified(str(open(strJsonFileName).read()))
+	for curWord in dctWordCount.keys():
+		if curWord in lstDeleteCategories:
+			print curWord
+			del dctWordCount[curWord]
+	
 def ReplaceCategoriesFromJson(strJsonFileName, dctWordCount):
 	#dctReplaceCategories = json.loads(str(open(strJsonFileName).read()))
 	dctReplaceCategories = jsonbyteify.json_loads_byteified(str(open(strJsonFileName).read()))
@@ -37,6 +44,7 @@ dctWordCount = dict()
 for task in lstTasks:
 	dctWordCount[task] = dctWordCount.get(task,0) + 1
 
+DelTasksFromDict("CategoriesToDelete.json",dctWordCount)
 ReplaceCategoriesFromJson("CategoriesDictionary.json", dctWordCount)
 
 #lstOrderedTasks = sorted([(occurence,task) for task,occurence in dctWordCount.items()],reverse=True)
