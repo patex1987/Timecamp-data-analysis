@@ -1,7 +1,7 @@
 import re
 import HelpFunctions
 
-# Divides the raw input file into 
+# Divides the raw input file into 2 separated files: 1. containing the durations of each task, 2. containg the task names
 def DivideIntoTimeAndData(fileName, origCharSeparator,newCharSeparator, origLevelSeparator, newLevelSeparator):
     HelpFunctions.SilentRemove("2_Times.txt")
     HelpFunctions.SilentRemove("3_Tasks.txt")
