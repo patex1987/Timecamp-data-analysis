@@ -6,7 +6,7 @@
 	"peto": 
 		["petom","peta","petov","petovi"], 
 	"testovanie": 
-		["testov","testing","testy","otestovanie","testu"], 
+		["testov","testing","testy","otestovanie","testu","test"], 
 	"sentinel": 
 		["sentinelu","sentinelom"],
 	"kalibracia": 
@@ -16,5 +16,21 @@
 	"s-line": 
 		["sline"],
 	"ado": 
-		["ada"]
+		["ada"],
+	"diskusia":
+		["talk"],
+	"snimac":
+		["snimacov","snimaca","snimace","snimacia","snimacom","sensor","sniamcov"],
+	"ulohy":
+		["uloh","task","tasks"],
+	"phone":
+		["call"],
+	"andis":
+		["andise"], 
+	"mail": 
+		["mailov","mail","mailing","mailova","maily","mailu","email"],
+	"msproject":
+		["projectu","projecte","projects"],
+	"telefonat":
+		["phone"]
 }
