@@ -17,7 +17,7 @@ def LoadDataIntoLists(strFileName, charSeparator):
 			lst2dTaskOccurences[1].append(vals[1])
 	return lst2dTaskOccurences
  
-lstPlotData = LoadDataIntoLists("4_SimpleWordOccurence.txt",'\t')
+lstPlotData = LoadDataIntoLists("7_WeightedWordOccurence.txt",'\t')
  
 objects = lstPlotData[0][:MaxRow]
 #y_pos = np.arange(len(objects))

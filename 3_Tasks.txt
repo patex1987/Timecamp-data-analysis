@@ -1,0 +1,1156 @@
+Name
+S-Line Scan
+|1813 - S-line Scan 400 Axsun
+||Testing & Evaluation
+|||Vyhodnotenie
+||||Wl range sweep
+|||||1. test
+|||||3.snimac
+|||||2. snimac
+|||||4. snimac
+||||Fitovanie
+|||||Test nr.5
+||||||Talk - Jaro
+|||||Test nr.6
+|||||Test nr. 4
+|||||Test nr.7
+|||||Test nr. 3
+|||||Test nr. 2
+||||Testovanie VOA
+|||||WL nr. 4
+|||||WL nr. 3 VOA0
+||||Postupne spajanie snimacov - test 1875
+|||Testovanie fitovania / cely WL range
+||||Sensor nr. 2
+||||Sensor 3 opakovane testy
+||||Sensor nr.3
+||||Sensor nr. 4
+|||Testovanie fitovania
+||||Test nr. 2
+||||Test nr.7 - Testovanie VOA2
+||||Testovanie nr.3
+||||Test nr.1 - Jardo
+||||Testovanie nr.5 - Scrambler + dlhe ustalenie
+||||Test nr.6 - Testovanie VOA
+|||Testovanie VOA
+||||WL nr. 3 VOA0
+|||Testovanie DTG
+|||Testovanie polarizacie 400
+||Design
+|||R&D
+||||TRL - Risk Management - Jaro
+|||||Udpdate riskov
+|||||UML diagram vyvoja
+|||||risk management pre 400 - Tomas
+||||||Poznamky
+||||Fitovanie S-Line Scan 400
+|||||Talk s Jardom
+||||Talk - Jardo
+|||Specka komunikacneho protokolu / Jaro
+|||Test c. 1 - setup
+|||Test c.2 - setup
+|||Test c.1 - Mail
+||General
+|||Planovanie uloh - Jardo
+|||Vyroba snimacov
+||||Mail Marek / Tomas
+|||Summary 2016 - Jardo
+|||Update Eway
+|||Stav - Peto
+|||ASE zdroj
+||||Mail - Tomas / Fibercore
+|Production and Maintenance
+||S-Line Scan 800
+|||Testovanie switchu - Sercalo Paralell to Serial
+||||Testovanie ITR z ESIRIS - Jaro
+|||||Talk - Jardo
+||||Testovanie zariadenia
+||||Testovanie zostavy, Reinstall pocitaca - Jardo
+|||Zistenie chyby a oprava ITR 126233/0002
+|||Testovanie teplotneho rozsahu so switchom
+||||Vyhodnotenie merani
+|||Check switchu - Jardo / Tomas
+|||Vyroba na nasledujuce obdobie - 2016-Apr
+||||Update zoznamu
+|||Risk management
+||||Update zoznamu riskov
+|||Aktualny stav - 2016-Jul
+||||Talk - Peto / Jaro
+|||Diskusia - bug Osterbaai - Jaro
+|||Vysledky - Jaro
+|||Birefringence
+|||Vyroba pre Kiwa
+||Evidencia interogatorv
+|||Update zoznamu
+|||Prerobenie excelu
+|||Doplnenie informacii - Jaro / Ado
+||Testovanie sercalo switchu
+||Komunikacia s Bayspecom
+||Organizacia ulohy
+|||Brainstorming - Jaro
+|||Priprava materialov
+||Meeting - Peto / Tomas / Ado
+||Vyroba - meeting - Peto / Ado / Jaro
+||Vstupna kontrola interogatorov
+|||diskusia - Tomas
+||Upgrade Teamviewer lincencii
+|Design
+||Testovanie Illumisense Wave
+|||EC test TTL request
+||||testovanie - Jaro
+|||Testovanie 804D
+||Modbus
+|||Modbus programovanie
+||||Komunikacia so sentinelom
+||Exalos - zdroj svetla - Peto / Jaro / Gabo
+|||Jardo - riesenie problemu
+||||Analyza udajov - Excel
+|||Fibera - konektorovanie
+|||Fibera setup
+|||Zaver
+|||Update zoznamu interogatorov
+||TFT mail
+||Vyvoj novych zariadeni - meeting Peto / Jaro
+||Research zariadeni - Jardo
+|General
+||Vyvoj na nasledujuce obdobie
+|||Talk - Jardo
+|||Mail - Jardo
+||Meeting - Miso / Edo / Peto / Jaro
+||Vyroba na nasledujuce obdobie
+|1830 - Datalogger
+||Design
+|||VW koncepty - studovanie
+1444 - Sentinel
+|R&D
+||Sentinel 2.0 - support
+|||Meeting v Andise
+|||Vyber funkcii do prvej verzie 2.0
+||||Meeting s Andisom
+|||||Priprava na meeting
+|||||Posielanie mailu do Andisu
+||||Mail - funkcie Sentinelu
+|||||Aktualny stav - Mail - Kukuca
+||||||Priprava podkladov na meeting
+||||Casy usetrene novou verziou
+||||Fakturacia - Mail do Andisu
+|||||Talk - Peto
+||||Talk - Peto
+||||Talk - Tomas
+||||Meeting
+||||Meeting - Mail
+|||Andis meeting - zasadacka 1
+|||Sentinel 2.0.0.1
+||||Testovanie aplikacie
+|||||Mail Mojovi
+|||Testovanie nr.1
+||||Mail do Andisu
+||||Brainstorming - Jardo
+|||Andis - priprava
+||||Zasadacka - priprava
+||||Priprava na meeting c. 2
+||||Priprava na meeting - Jaro
+|||Andis meeting - zasadacka 2
+|||Meeting v Andise - switch 1x4
+|||Andis nacenenie
+||||Mail do Andisu
+||||Talk s Petom
+|||Sentinel 2.0.0.5
+||||Testovanie aplikacie
+||||Testovanie vzorcov
+|||Andis meeting - zasadacka 3
+|||Preco Linux
+||||napady
+||||Talk - Peto
+|||Sentinel 2.0.0.4
+||||Testovanie aplikacie
+|||Talk - Jardo
+|||Priprava na meeting - Jardo
+|||Sentinel 2.0 1. beta verzia
+||||Plan testov
+|||Talk - Peto
+|||Export / Import nastaveni
+|||Mailova komunikacia Andis
+|||Telefonat s Mojom
+|||Priprava interrogatora
+||Tvorba manualu / specifikacie
+|||Sentinel specka
+|||koncepty S-line merani
+||||Doplnenie do manualu
+||||Flowcharty - Marek
+|||Sentinel brainstorming
+||||Brainstorming - Jaro
+|||||Peto meeting
+|||Koncepty dataloggerov / SW cast
+||||Talk - Jaro
+|||Sentinel - koncepty GUI - Marek meeting
+|||Meeting Peto / Jaro / Gabo
+|||Sentinel 2.0
+|||UML diagramy
+|||Dohodnutie dalsich krokov Sentinel 1.1 / 2.0
+|||Talk s Jardom ohladom S-line Scan 400
+||Sentinel 1.0
+|||Sentinel 1.0
+||||Testovanie bugfix ID1 Sentinel 1.0
+|||||Brainstroming dalsich krokov - Jaro
+|||||Navrh testov - Jaro
+|||||Talk s Petom o vysledkoch testov
+||||Testovanie Andis bugfix04
+||||Nove screenshoty
+||||Komunikacia s ANDIS
+||||Peto meeting ohladom uprav Sentinel 1.0
+||||Testovanie Andis bugfix03
+||||Testovanie Andis bugfix05 - final
+||||Final check 1.0 - Peto
+||||Testovanie Andis bugfix05
+||Dynamicke meranie - zaklady
+|||Dynamicke meranie UML
+||||Marek - Visio
+|||Talk s Petom - Sentinel dynamicke problemy
+|||Dynamicke meranie - priprava
+|||Koncepty dynamickeho merania
+||Testovanie 2.0
+|||Setup systemu
+|||Sumar zisteni
+|||Zistienia z meetingu
+|||Problem so spustenim SW
+|Prototyping & Testing
+||Testovanie Sentinel 2.0
+|||Test nr.1
+|||Nastavenie testov - Jarino
+|||Priprava bug-ov na meeting
+||||Priprava dokumentov
+|||Testovanie meeting - Tomas, Marek
+|||Zber informacii
+|||Konzultacia - Kukuca
+|Customer project / product maintenance
+||Vyhody Sentinel 2.0
+|||Talk - Peto
+||Sentinel Datasheet
+||Upgrade Definicneho suboru - referencovanie Strain
+||Testovanie FTP
+1875 - S-line Scan 800 - Attenuation / Max. number of sensors testing
+|Testing & evaluation
+||Testovanie maximalneho poctu sniamcov na kanal
+|||Vyhodnotenie
+||||Logaritmizacia
+||||Diskusia - Jardo
+||||Problemy - Tomas - Margarethe
+|||Splitter testy
+|||postupne odstranenie snimacov
+||Testovanie polarizacie
+|||Testovanie depolarizatora
+|||Tesovanie Polarizatora od Potroka
+|||Nove teplotne testy - deploarizator
+|||Vysvetlenie nefunkcnosti DEPOL - Potrok
+|||Hladania snimacov / upratanie
+|||Talk - Edo
+||Vyhodnotenie
+|||Testovanie depolarizacie
+|||Postupne odstranenie snimacov
+|||Synchronizacia udajov
+|||Sumarizacia zisteni
+||||Talk - Jardo
+||Talk - Jardo
+|||Mail chalanom - objednanie vlakna
+||||Talk - Tomas
+||Vstupna kontrola - Micron + Sline 800
+||Vstupna kontrola - 400
+||Testovanie zvysovanie Dynamic Range
+|General
+||Meeting - ILC / Chovan
+|||Priprava meetingu
+||Mail Chovanovi
+||Meeting - ITR / FFT issues
+|||zapis z meetingu
+||Aktualny stav ulohy - neuspesne testovanie
+||Preklopenie do Projectu
+||Priprava na meeting - ITR / FFT issues
+||Studium - depolarizacia zdroja
+||Mail do O-Eland
+||Research Pump laser + EDFA zdrojov
+||Mail - stav ulohy
+||Mail Bramovi
+||objednavka Depol
+||Mail - Marek / Plevi
+||Mail - Testovanie FSG
+||Stav - Talk Peto
+||Stav ulohy - eway
+|Design
+||Definicia uloh - Jardo
+||Mail
+Avago
+|R&D Projects
+||1742 - Low cost ITR
+|||Testing & Evaluation
+||||Testovanie - Sylex
+|||||Vyhodnotenie Test #1 a #3
+||||||Priprava preliminary report
+||||||Priprava grafov
+||||||Vysledky - Jardo
+||||||Priprava udajov pre Dawida
+|||||Priprava 2. reportu
+||||||Doplnenie WL do reportu
+||||||Check reportu
+||||||Vyhodnotenie vysledkov
+||||||Check nakladov / Peto
+|||||Nastavenie test #1
+|||||Meeting - Avago
+|||||Prehlad testov
+|||||Vlakna na MS-03 - Tomas, Ado
+|||||Test interrogatora
+|||||Diskusia - Dawid
+|||||Test # 3
+||||Testovanie - kalibracia strain
+|||||Porovnanie MOI vs. Avago
+|||||Instalacia SW
+|||||Mail do Avaga
+||||Test #2
+||||Nastavenie komory
+||||Nastavenie test #2
+|||Design
+||||dohodnut s Avago plan testov
+|||||Meeting - Peto
+|||||Talk - Peto
+|||||Mail
+||||Temperature demonstrator - koncept
+|||||Athermal FBG
+||||||Zistovanie terminov
+||||||Cenove ponuky - mail
+|||||Koncept - Jaro / Mato
+|||||Phone call - Dawid
+|||||Mail - Magnus
+|||||BOM
+|||||Talk - Jaro
+||||Phone call
+||||Diskusia - Jaro
+|||General
+||||Business case - MR
+|||||Definicia custom WL pre 400
+|||||Talk - Peto
+|||||Talk - Peto / Edo
+||||phone conference
+|||Production
+||||Vyroba MS-03 + TP-02
+|||||Diskusia - Jaro / Marek / Michal
+|||||Diskusia - Marek
+|||||ISYS - Ado / Peto
+||1399 - OPI
+|||Vyroba vzoriek 2016_1
+||||Testovanie vzorky
+|||||Vyhodnotenie
+||||Nastavenie vzorky 2016_1
+||||Lepenie vzorky 2016_01
+|||Hladanie materialov na sklade / evidencia
+|||Sumarizacia doterajsich vsyledkov
+||||Brainstorming
+||||Diskusia - Edo
+|||Phone call Dawid
+Vyvojove ulohy
+|Riadenie vyvojovych uloh
+||Update Projectu
+|||Reporting
+|||Doplnenie Projectu Technica SA
+|||Stav uloh - Mail - Tomas
+|||Nove ulohy
+|||Update nakladov
+|||Doplnenie novych uloh - Tomas
+|||Diskusia - Tomas
+|||Rekonfiguracia - novy notebook
+||planovanie vyvojovych uloh na 2016
+|||Hruby plan uloh
+||||Project - Nastavenia
+|||||Import Tomasovych uloh
+|||||Doplnenie hotovych uloh - mail - Tomas
+|||||Uprava - Tomas
+|||||Update HW uloh - Jaro
+|||||Vytvorenie Eway CRM - Ado
+||||meeting - Tomas
+|||Meeting Peto / Tomas / Gabo
+|||Meeting - Peto - aktualny stav
+|||Meeting - Edo
+|||Timecamp - Jardo
+||Doplnenie informacii do Projectu
+||Mail - rozpis uloh
+||Reporty pre Peta na poradu vedenia
+||Diskusia - Peto
+||Meeting - Tomas
+||Ulohy na 2016
+|||Zber udajov
+|TRL, TPL
+||TRL, TPL - Tomas
+||Studovanie dokumentov
+||TRL,TPL Meeting - Tomas / Gabo / Edo / Peto
+|Edo - meeting
+|Meeting - Edo / Peto / Tomas
+TOOZ
+|Projects
+||1609 - Podbiel
+|||Evaluation
+||||Vyhodnotenie prvych merani - WL to strain
+|||||Testovanie MS-03 - bending strain
+||||||Testovanie MS-03 / SG-01 / MS-02 bending strain
+|||||Meeting - SjF - Analyza vysledkov
+|||||Diskusia - Tomas / MAto
+|||||Pridanie novych udajov
+|||||Averaging reportu
+|||||Rekonfiguracia snimacov
+|||||Diskusia - Tomas / Mato
+|||||Export udajov - Tomas
+||||Analyza Maj 2016
+|||||Referencovanie VDV
+||||||Vytvorenie .dat suboru
+|||||Referencovanie - Sentinel
+||||||Update definicneho suboru
+|||||Export uajov - cely mesiac
+||||||Generovanie reportu
+|||||VDV - referencovanie / research moznosti
+|||||Diskusia - Tomas
+|||||Talk - Tomas - detaily
+|||||Export udajov - obmedzena rychlost
+||||Analyza Jul 2016
+|||||Export udajov - cely mesiac
+||||Analyza Jun 2016
+|||||Export udajov - cely mesiac
+|||Production
+||||VDV
+|||||Konfiguracia VDV / Marek skolenie
+||||||WL txt to VDV db
+|||||||Modifikacia udajov
+||||||Uprava WL a Sensor txt suborov
+|||||Vytvorenie Dashboard
+|||||Nastavenie konta
+|||||Virtual variables
+|||||Alert a Warning nastavenia
+||||Konficguracia Sentinel
+||||Instalacia S-line Sentinel
+||||Modem interrogatora + check merania
+|||Maintenance
+||||Vyjazd na Podbiel
+||||Kontrola Spectrum na S-Line Scan
+||||Priprava na vyjazd
+||||Restart pocitaca
+||||Diskusia - Jaro
+|||Design
+||||Debrecen - instalacna skrina
+||||Diskusia - Jaro - regulacia napatia
+|||General
+||||Meeting - Tomas / Synak
+||||skenovanie
+|Misc
+||Analyza nakladov
+|||Talk - Peto
+|||Mail
+Studium
+|Microsoft Project
+||Lynda.com - skolenie
+||Lynda.com - Managing Project Risk
+|Nove publikacie
+||Bridge monitoring
+||Search
+||Fiber optic borehole seismic vector
+|HBM Webinar
+||Experimental stress analysis
+||Studium - HBM dokument - Tunnel
+||Optical sensing webinar
+||Fatigue life testing
+||Force measurement
+||Optical interrogator
+|Monitorovanie mostov
+|research - konkurencia
+||Smartec
+|||Porovnanie SOFO lite vs. Scan 400
+||Fiber optic firmy
+||Measurand - ShapeAccelArray
+|Lynda.com - Linux kurzy
+|Lynda.com - Advanced Microsoft Project
+|Webinar
+||LFW AFL distributed sensing
+||Smartec - 20 years of SHM
+||Smartec - SOFO Lite
+|Lynda.com - JIRA
+|Sensuron - Strain measurement
+|Synaptec clanok
+|Technica SA clanok
+|ISHMII Journal
+|Noria - LFW clanok
+|ICE manual of Geotechnical engineering
+|Lynda.com - Agile Project Management
+|EDN Eurpoe
+Organizacia mailov
+|Citanie mailov
+Osterbaai
+|Projects
+||1667 - Den Helder
+|||Maintenance
+||||Network repair
+|||||rekonfiguracia s-line scan
+|||||Kontrola def suboru
+|||||Update def suboru
+|||||Konfiguracia noveho ITR
+|||||Check intenzit WL
+||||Konfiguracia Sentinel - vymazanie probl. peakov
+|||||Check nastaveni
+|||||Mail Hilkovi
+||||Kontrola nastavenia snimacov
+|||||Vymazanie chybnych snimacov
+|||||Stav snimacov - Tomas
+||||Mail - Hilko - nastavenie snimacov
+||||Mail - Hilko - kontrola snimacov
+||||Mail - Stav snimacov - Hilko
+||||Phone call - Hilko / Tomas
+||||Nastavenie mailov - Hilko
+||||Meeting - oprava interogatora
+||||Diskusia - Tomas
+||||Konfiguracia noveho interogatora
+||||Topologia - Tomas
+||||Testovanie interogatora
+||||Diskusia problemy - Peto
+||||Diskusia - interrogator fail - Peto / Tomas / Ado
+||||Diskusia - termin instalacie
+|||General
+||||Mail - Hilko - microstrain problem
+||||Mail - Hilko - Maintenance casy
+||||Mail - Peto, Tomas
+||Vibration testing
+|||Analyza udajov
+||||Kodenie makra
+||||Analyza udajov pomocou makra
+|||Vibration sensors
+|Maintenance
+||Sentinel manual - Hilko
+||SW otazky od Hilka - Tomas
+||Konfguracia Sentinel
+|||Problem so sietou - Marek
+|Misc
+||campbell scientific riesenie
+FOI
+|Vypomoc vo vyrobe - FOI
+|Barcode
+||Zistovanie problemu
+|||Testovanie softu
+||Meeting
+||Talk - Tomas
+|Meeting s Marianom
+|Prenasanie novych regalov
+|Organizacia - vypomoc - Meranie - meeting s Petom
+|Help Edovi v Projecte
+|Breakout makro
+GSM 2016
+|Ucast na GSM 2016
+|Priprava materialov
+||Poppi - MS-03
+|||Tvorba textu
+|||Uprava
+|||Talk - Peto
+||Poppi - Profil
+||Odpoved Johnovi
+||Phone call - Peto
+||Datasheet
+|Nastavenie Sentinelu
+||Otestovanie konfiguracneho suboru
+|Diskusia - Tomas
+1439 - Polyimide FFT
+|Design
+||Specifikacia standardnych vlnovych dlzok
+|||Nova specka WL
+||||Prerobenie sablony podla novych poziadaviek
+|||||Diskusia - Ado
+||||Finalizacia - Ado / Peto / Tomas
+||||Diskusia - Peto
+||||Custom zadanie
+||||Finalizacia - Ado
+||||Phone call - Tomas
+|||Re-check vsetkych WL
+||||Porovnanie teoretickych a realnych WL
+||||Kontrola PN vlakien
+|||Diskusia Peto / Gabo
+|||Diskusia Peto / Tomas / Gabo
+|||Diskusia Peto / Tomas / Gabo
+|||D-01 standardne WL
+|||Tomas - check definovanych WL
+||Transformer temperature monitoring
+|||Mail - Petovi
+|||Phone call - Magnus + diskusia s Petom
+|||Snimacia siet - Marek
+|||vzorky pre Avago
+||Spektrum FFT
+|Testing & Evaluation
+||Vyhodnotenie noveho BI vlakna
+|||Tomasov mail
+|||Diskusia ohladom polarizacie - Tomas
+|General
+||Priprava na meeting s Margarethe
+||Diskusia - Tomas - Variabilita parametrov FFT mriezok
+||Mail od Margarethe
+Inversion sensor
+|Projects
+||1776 - Displacement sensors
+|||Evaluation
+||||Vyhodnotenie kalibracie
+|||||Kalibracia novych kusov
+||||||Vypocet predlzenia kalibrov
+|||||Vyvoj novej metody
+||||||Doplnenie verifikacnych cyklov
+||||||Doplnenie udajov
+||||||Doplnenie kalibrov
+|||||Prerabka logovacich suborov
+|||||Diskusia - Tomas
+|||||Overovacie cykly
+|||||Prerabka teplotnych kalibracii
+|||||Vypocet predlzenia kalibrov
+|||||Overenie kalibracie
+|||||Kompenzacia roztaznosti kalibrov
+|||||Rekalibracia na rigu - Plevi
+|||Production
+||||Vytvorenie kalibracnych listov - Marek
+||||Kalibracia snimacov - Plevi
+||||Nastavenie komory - kalibracia - Marek / Tomas
+|||Design
+||||Kalibracna sablona
+||||Vyroba D-01 a MS-01 FFT
+||||D-0x
+|||||Check WL range
+|||General
+||||Diskusia - Tomas / Marek
+||1723 - MS-01 / D-01
+|||Evaluation
+||||Vyhodnotenie kalibracii
+|||||Vypocet predlzeni
+|||||Overenie strainovej kalibracie
+|||||Check kalibracnych listov
+|||||Diskusia - Tomas
+|||||Overenie kalibracnych udajov
+|Misc
+||Check kalibracnych listov
+||Zlomene MS-01
+|||Talk - Tomas
+|Maintenance
+||Kalibracia MS-01 - Problem - Plevi
+1459 - Testy membran tlakovych snimacov
+|Design
+||Koncepty transducerov - meeting Mato
+|||Priprava prezentacie
+||||Studium - geotechnicke pojmy
+||||Studium - strain-stress
+|||Piezometer - studium
+|||Studium - Load cell koncepty
+|||Nove technologie FBG
+|||Peto - transducery
+|Testing & evaluation
+||Vyhodnotenie kalibracie
+|||Prerabka vzorcov
+|||Diskusia - Tomas
+|||Overovacie cykly
+||Prehlad testov - mail
+|Production
+||Vyroba FFT membran - mail - zadanie
+|||Postup testov
+|||Kalibracia vzoriek
+||||Diskusia - Tomas
+1859 - S-line Scan 800 - Ejtech and Birefringence testing
+|Testing & Evaluation
+||Nastavenie testov
+||Testy S-line Scan
+|||Vyhodnotenie testov
+|||Nastavenie testov
+|||Diskusia - Jardo
+||Testy spotreby
+|||Nastavenie testov
+|||Vyhodnotenie
+||Vyhodnotenie bending testov
+|||Diskusia - Jardo
+||Testoavnie utlm vs vlnova dlzka
+||Testy kombinacie S-lin Scan a Switch
+|||Nastavanie testov
+||Vyhodnotenie druhych testov - Scrambler na MOI
+||Vyhodnotenie prvych testov - bez scramblera
+||Talk - Peto
+||Nastavenie komory
+||Vyhodnotenie tretieho testu - Scrambler na S-line Scan
+||Zber udajov
+|Design
+||Cenove ponuky na Polarization Switch / Scrambler
+|||Laser linewidth, Coherence length
+|||Zapojenie zariadenia
+|||Talk - Jaro
+|||Mail
+|||Diskusia - Peto / Bram / Tomas / Potrok
+|||Mail Bramovi
+|||Mail - Wajih
+|||Talk - Peto
+||Mail - doodnutie detailov
+|General
+||Fugro / Faz - Birefringence dokument
+||Meeting - Peto / Ado / Tomas / Jardo
+||Objednavka polarizatora
+SW na analyzu udajov
+|zadanie uloh Danovi
+||Priprava
+|||Synchronizator
+||||Testovanie
+|||||Visual Studio tasks
+|||||Priprava Test case-ov
+||||Example materialy / popis
+||Testovanie
+||Podrobny rozpis uloh
+||Talk Dano
+||Testovanie c.3
+|Specka - meeting - Marek
+||Testovanie c.2
+||Testovanie c.1
+||Zadanie uloh Danovi - Marek
+|Meeting - Marek / Peto
+Eurovia
+|Projects
+||1426 - Stary most
+|||Maintenance
+||||rekonfiguracia sieti
+|||||Najst spravne definicie snimacov
+|||||Zapojenie snimacov
+|||||Check intenzit peakov
+|||||Nulovanie snimacov
+|||||Nastavenie integration time a threshold
+|||||Stary most - aktualny stav - mail
+|||||SHP - mail ohladom nenulovanych snimacov
+|||||Check WL logov
+||||Vyjazd na Stary most - Jaro
+||||Instalacia Sentinel bugfix07 - novy vzorec na novy komp
+||||Reinstall Teamvieweru
+||||instalacia Sentinel - Andis bugfix01
+||||Test interogatora
+|||||Konfiguracia Sentinel
+||||Nachystanie veci
+||||Instalacia Sentinel bugfix07 - novy vzorec
+|||Production
+||||instalacia
+|||Evaluation
+||||Check Sensor Log
+|||||Talk - Peto
+||||clanok do IS
+||||SHP komunikacia
+||||Petov report- check
+||||Check reportov
+Getec
+|Projects
+||1755 - Tendon strand monitoring
+|||Maintenance
+||||Interrogator - mail - Justin
+|||||Instalacia Sentinel - Paul
+|||||Instalacia Sentinel - Justinov laptop
+|||||Instalacia Sentinel
+|||||Check interogatora
+|||||Instalacia Sentinel 2. interrogator
+|||||Paul - problemy s interogatorom
+||||Instalacia Sentinel - Daniel
+||||Paul - problem so snimacom - Mail - Peto
+|||Design
+||||Konfiguracia SC-11
+|||||Manual na nulovanie snimacov
+|||||Diskusia - Peto
+|||||Vytvorenie config suboru
+||||Koncept - Peto
+||||CSIC - distributed riesenie
+|||General
+||||Meeting Peto / Ado / Tomas
+||||Mail Peto / Ado / Tomas
+||||Vizum - vybavenie
+|||Evaluation
+||||Kalibracia SC-11
+||1707 - Tideway Central Sewer Monitoring
+|||Production
+||||Testovanie sieti / konfiguracia Sentinel
+||||Kalibracia
+||1191 - Hamburg Sewer
+|||Maintenance
+||||Instalacia Sentinel 1.0 (Andis bugfix05)
+||||Nastavenie SW
+||Pile monitoring
+|||General
+||||Historia mailov / analyza udajov
+||||Diskusia - Peto
+|Misc
+||Meeting - Julian
+|||Priprava
+||Zoznam zariadeni pre Ada
+||Sewer monitoring
+||Smart cable
+|R&D Projects
+||1514 - Channel Tunnel
+|||Design
+||||Konfiguracia Sentinel
+|||Testing & Evaluation
+||||Kalibracia - vyhodnotenie
+|Maintenance
+||Konfiguracia snimacov na vystavu
+||Interrogator problem - Justin
+Capris
+|Projects
+||660 - Bridge in Costa Rica
+|||Evaluation
+||||LC-02 vs. EPS
+|||||Nastavenie testov
+|||||Vyhodnotenie
+|||||Diskusia - Peto
+||||Encardio rite EPS setup
+|||||Test - Jardo
+||||Kalibracia LC-02
+|||||Kalibracia fakulta - support chalani
+|||||Prenos zavazi
+|||General
+||||Mail Alexisovi
+|||||Total Soil Stress
+|||||Phone conference - MCH / Capris / Lowy
+|||||Kupa Total Soil Pressure Cell z Geosense - Peto
+||||Diskusia Peto/Tomas
+|Koncepty
+1443 - MS-03
+|Testing & Evaluation
+||MS-03 navarena na ocelovu platnu
+|||Vyhodnotenie merani
+||||Talk - Tomas
+|||Talk - Tomas
+|||Nsatevenie testov
+|||Navaranie - Mato - fakulta
+|||Mail - Tomas, Mato
+||Kalibracia
+||Kalibracia - help
+|Design
+||Diskusia - teplotny behavior / Tomas
+|||Diskusia - Tomas / Mato
+|||Check vysledkov
+||Diskusia - Tomas
+|General
+||MS-03 meeting
+||Stav MS-03
+1913 - Testing of pressure sensors (Fugro)
+|Testing & Evaluation
+||Vyhodnotenie kalibracie
+||Kalibracia snimaca - Brano
+Fugro
+|Projects
+||1806 - Pile monitoring
+|||Production
+||||Kalibracne listy - Plevi
+|||||kontrola
+||||kalibracia vzoriek - Plevi
+|||General
+||||Export udajov - Podbiel
+|||||Talk - Tomas
+||||Vysvetlenie teplotnej kalibracie - Devrez
+|||Maintenance
+||||Najst spravny kalibraciu
+|||Evaluation
+||||Skuska kalibracie MS-03
+|||||diskusia - marek
+||||kalibracia
+|||Design
+||||Devrez - MS-03 request
+|||||Check Tomasova tabulka
+|||||Check WL range
+|R&D Projects
+||1743 - Fugro - Strain insert testing
+|||Design
+||||Devrez - phone conference
+||||Studovanie problematiky
+|General
+||Pomoc pri vyhodnteni kalibracie
+||Mail - Peto / Belus
+Timecamp
+|Report pre Peta
+||Report August - November
+|||Analyza - Marekov report
+|||Analyza - Petov report
+||Celorocny report
+|||Talk - Peto
+|Vyrvorenie kategorii
+||Skuska importu - Marek
+||Talk - Peto
+||Check importu
+||Help - Mato
+|Organizacia uloh
+||Doplnenie chybajucich casov
+|Meeting
+|Priprava na meeting
+|Mail
+Kiwa
+|Projects
+||1368 - Benthuizen
+|||Evaluation
+||||Benthuizen - analyza udajov
+|||||Vypocet stress
+||||||Nastavenie snimaca u Robberta
+||||||Novy vzorec do Sentinel
+||||||Mail - Robbert
+|||Maintenance
+||||Benthuizen - update Sentinel
+||||Benthuizen rekonfiguracia
+||||Benthuizen S-line View problemy
+||Sandworm
+|||Sandworm 2
+||||Konfiguracia Sentinel
+|||Testovanie Sandworm
+|Maintenance
+||Instalacia S-line comp
+CERN
+|Meeting
+|Priprava - Plevi
+|Talk - Peto
+|Phone call
+|Instalacia Sentinel
+|Priprava veci na meeting
+|Mail od Peta
+|Talk - Tomas
+Organizacne veci
+|FOS meeting
+|Meeting - Marek - stahovanie
+||stahovanie
+||Upratanie OPI skrine
+|Upratanie stola
+||Prenasanie veci
+|Meeting - Peto
+|Vyroba pocas dovoleniek - Marek / Tomas
+|BOZP skolenie
+|Call s Tomasom
+S-line View 1.0
+|General
+||Simulacia casov nastavenia VDV
+|||Talk - Peto
+||Cloud monitoring solutions
+||Priprava na phone call s Thorarinnom
+||Phone call s Thorarinnom
+||Otazky ohladom Dashboard - Thorarinn
+||Riesenie zemny poctu snimacov - Thorarinn, Andres
+||Otazky na Thorarinna ohladom alert a warning
+|Maintenance
+||VDV 2016
+|||Backup / Instalacia
+||Sprava servera
+FOS - others
+|Kalibracne makra
+||Nove makro pre teplotne snimace
+|||Novy vzorec
+|||Implementacia do Sentinelu 1.0
+|||Check novych kalibracnych listov
+|||Novy vzorec do kalibracnych listov
+Problemy
+|Nastavenie notebooku
+|Zalohovanie udajov
+|Cistenie kompu - odinstalovanie
+|Oprava notebooku
+|Problem s TeamViewer
+1855 - Mortar project
+|Testing & Evaluation
+||Prvy tyzden logovania
+||Zapnutie testov
+||Logovanie
+||Uprava logovania, upratanie kablov
+||Zapnutie testov - Plevi
+EC -Test systems
+|Misc
+||Illumisense Wave / Strain datasheet
+||Interrogator tender
+||Prerobenie kalibracnych listov
+||Check kalibracnych listov
+||Illumisense Wave / Strain
+||Testovanie zaraidenia
+|Projects
+||1713 - Naval Academy
+|||General
+||||Uvod
+||||Diskusia - Ado
+||1750 - Bridge monitoring
+|||General
+||||Uvod
+|Maintenance
+||Instalacia Sentinel
+Actphast
+|Meeting - Peto / Edo / Gabo
+|Kick-off meeting
+|Phone conference - Edo
+|Maily
+|Diskusia - Peto
+MS Systems
+|Projects
+||1897 - Kuryk project
+|||Production
+||||Nastavenie / test zostavy
+||||Check kalibracnych listov
+|||General
+||||Lokalizacia Sentinelu
+|||||Mail
+||1715 - Harbor project
+|||Production
+||||Nastavenie MOI pre problematicke peaky - teplotna kalibracia
+||||Testovanie S-line Scan+comp
+||||Check kalibracnych listov
+|||Evaluation
+||||Check Tomasovho reportu
+FBGS
+|Misc
+||Vyhodnotenie kalibracie TC-03
+||Mail ohladom FFT a PI
+|||Talk - Jardo
+|||Talk - Peto
+|||Mail do Fugra / Faz - Tomas
+||Check kalibracnych dokumentov - TC-03
+||Check kalibracnych listov
+|Projects
+||Kvalifikacia S-line Scan
+|||Mail - Bram
+||PI Femtosecond fiber
+|||Mail - Peto / Bram
+1756 - Vibracne testy
+|Design
+||Meeting s Chmelkom na SjF
+||Dohodnutie detailov s Matom
+|||Mail
+Ejtech
+|Projects
+||XXX - Interrogator
+|||Production
+||||Balenie / Priprava / nastavenie / testovanie / kalibracne listy
+||||Kalibracne listy - Plevi
+|||General
+||||Mail - vysledky testov
+|General
+||Testovanie interogatorov - Jardo
+Technobis
+|Meeting
+|Talk - Peto
+|Rolfov email
+1818 - D-0x FFT
+|Design
+||Makro na kalibraciu
+Audit
+|Priprava na audit
+||Vyvojove ulohy - Edo
+||PO na TimeCamp
+|Meeting
+ANV s.r.o.
+|General
+||Introduction meeting
+Vyrobne zariadenia v SX
+|Strain rig
+||Uprava kalibracneho makra
+||Kalibracia, diskusia - Tomas
+||Vymena Thorlabs
+|MO SM125
+||Problem SM125
+|||Mail do Micron Optics
+Tencate
+|General
+||S-line Scan - 10 years warranty risk management
+||Olivier - SCN86 request
+Anglictina
+Geosinergia
+|Maintenance
+||Pressure calibration formula - P-01
+|||Mail - Alexis
+All employee
+NIF zrt.
+|Mail do madarciny
+Magistrat Bratislavy
+|Misc
+||Priprava na meeting
+|||Nachystanie ITR
+|||Meeting - Peto/Tomas
+||Mail od Peta
+||Mailing
+Encardio Rite
+|Misc
+||Priprava na meeting
+||Meeting
+Slovnaft
+|General
+||Priprava na meeting
+Technicasa
+|Misc
+||introduction
+Samuel Igor - diplomova praca
+|Zadanie uloh - Jardo
+Monitoring Systems
+Smartfibres
+|Misc
+||Vypocet vyosenia snimaca - Tomas
+||Kalibracia
+||FWHM a Reflectivity
+Lactec
+|Misc
+||Mail od Ada
+||Meranie elongation pomocou SC-01 - Tomas
+SVF STU
+|Imrich Liptak
+||Lucia
+|||Teplotna kalibracia - mail
+||Exkurzia
+Geo Van
+|Misc
+||Zistvanie problemu na ES-01
+|General
+||Definicia custom WL pre D-02
+Geodestek
+|Misc
+||Introduction mail
+Exalos
+|General
+||Meeting
+Opticke zvaracie kable
+|Studium principu
+Portuguese research institue
+|Introduction
+Pont-terv
+|General
+||Introduction mail - preklad
+Publikacie
+|VDV publikacie
+||Prehlad existujucich publikacii
+|Napady - Tomas
+Osmos
+|Misc
+||Talk - Peto
+Missure Mecanicche
+|General
+||Check kalibracnych listov
+FOS - General
+|General
+||Nove kalibracne sablony pre teplotne snimace
+Distrelec
+|Meeting
+Producteev
+|Tutorials
+Savcor
+|Projects
+||Crussel bridge
+|||General
+||||Uvod
+Cellco
+|Maintanance
+||Vypocet WL pri 85C
+|Misc
+||Check OSA
+Socotec
+|Projects
+||XXX - Gregory 1
+|||Accelerometer check
+GSM 2017
+|Introduction
+RST instruments
+|Misc
+||Introduction mail
+Zerlux Hungary
+|Introduction
+1438 - Testy teplotnej kompenzacia
+|Design
+||Technologia - Tomas- Meeting
+GoToMeeting
+|Introduction
+Agidens
+|Misc
+||Uvod
+Zilinska univerzita
+|Check kalibracnych listov
+Sales - quick request
+(time without task assigned)
+Total
+

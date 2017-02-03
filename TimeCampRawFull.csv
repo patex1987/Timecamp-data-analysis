@@ -1,0 +1,1156 @@
+Name;Hours without subtasks;Hours with subtasks
+S-Line Scan;3m 19s;196h 26m
+     1813 - S-line Scan 400 Axsun;-;134h 59m
+          Testing & Evaluation;-;95h 19m
+               Vyhodnotenie;-;40h 36m
+                    Wl range sweep;-;19h 37m
+                         1. test;9h 39m;9h 39m
+                         3.snimac;4h 22m;4h 22m
+                         2. snimac;4h 11m;4h 11m
+                         4. snimac;1h 23m;1h 23m
+                    Fitovanie;-;14h 17m
+                         Test nr.5;4h 19m;5h 4m
+                              Talk - Jaro;45m 28s;45m 28s
+                         Test nr.6;3h 54m;3h 54m
+                         Test nr. 4;3h 49m;3h 49m
+                         Test nr.7;1h 22m;1h 22m
+                         Test nr. 3;6m 18s;6m 18s
+                         Test nr. 2;1m 5s;1m 5s
+                    Testovanie VOA;-;3h 57m
+                         WL nr. 4;3h 4m;3h 4m
+                         WL nr. 3 VOA0;52m 47s;52m 47s
+                    Postupne spajanie snimacov - test 1875;2h 43m;2h 43m
+               Testovanie fitovania / cely WL range;12h 29m;24h 55m
+                    Sensor nr. 2;3h 53m;3h 53m
+                    Sensor 3 opakovane testy;3h 52m;3h 52m
+                    Sensor nr.3;3h 36m;3h 36m
+                    Sensor nr. 4;1h 5m;1h 5m
+               Testovanie fitovania;-;23h 30m
+                    Test nr. 2;5h 43m;5h 43m
+                    Test nr.7 - Testovanie VOA2;5h 20m;5h 20m
+                    Testovanie nr.3;4h 25m;4h 25m
+                    Test nr.1 - Jardo;3h 23m;3h 23m
+                    Testovanie nr.5 - Scrambler + dlhe ustalenie;3h 14m;3h 14m
+                    Test nr.6 - Testovanie VOA;1h 24m;1h 24m
+               Testovanie VOA;-;2h 24m
+                    WL nr. 3 VOA0;2h 24m;2h 24m
+               Testovanie DTG;2h 22m;2h 22m
+               Testovanie polarizacie 400;1h 30m;1h 30m
+          Design;-;34h 43m
+               R&D;-;29h 57m
+                    TRL - Risk Management - Jaro;11h 10m;23h 39m
+                         Udpdate riskov;5h 5m;5h 5m
+                         UML diagram vyvoja;3h 52m;3h 52m
+                         risk management pre 400 - Tomas;3h 14m;3h 31m
+                              Poznamky;16m 58s;16m 58s
+                    Fitovanie S-Line Scan 400;1h 3m;4h 10m
+                         Talk s Jardom;3h 7m;3h 7m
+                    Talk - Jardo;2h 7m;2h 7m
+               Specka komunikacneho protokolu / Jaro;3h 29m;3h 29m
+               Test c. 1 - setup;59m 24s;59m 24s
+               Test c.2 - setup;13m 50s;13m 50s
+               Test c.1 - Mail;2m 10s;2m 10s
+          General;-;4h 56m
+               Planovanie uloh - Jardo;1h 17m;1h 17m
+               Vyroba snimacov;-;1h 3m
+                    Mail Marek / Tomas;1h 3m;1h 3m
+               Summary 2016 - Jardo;48m 44s;48m 44s
+               Update Eway;48m 28s;48m 28s
+               Stav - Peto;33m 12s;33m 12s
+               ASE zdroj;-;26m 14s
+                    Mail - Tomas / Fibercore;26m 14s;26m 14s
+     Production and Maintenance;-;36h 46m
+          S-Line Scan 800;-;21h 15m
+               Testovanie switchu - Sercalo Paralell to Serial;3h 41m;10h 34m
+                    Testovanie ITR z ESIRIS - Jaro;4h 10m;4h 38m
+                         Talk - Jardo;28m 3s;28m 3s
+                    Testovanie zariadenia;1h 12m;1h 12m
+                    Testovanie zostavy, Reinstall pocitaca - Jardo;1h 2m;1h 2m
+               Zistenie chyby a oprava ITR 126233/0002;2h 13m;2h 13m
+               Testovanie teplotneho rozsahu so switchom;-;2h
+                    Vyhodnotenie merani;2h;2h
+               Check switchu - Jardo / Tomas;1h 31m;1h 31m
+               Vyroba na nasledujuce obdobie - 2016-Apr;1h;1h 20m
+                    Update zoznamu;20m 12s;20m 12s
+               Risk management;-;1h
+                    Update zoznamu riskov;1h;1h
+               Aktualny stav - 2016-Jul;24m 30s;51m 30s
+                    Talk - Peto / Jaro;27m;27m
+               Diskusia - bug Osterbaai - Jaro;45m 25s;45m 25s
+               Vysledky - Jaro;36m 57s;36m 57s
+               Birefringence;19m;19m
+               Vyroba pre Kiwa;2m 51s;2m 51s
+          Evidencia interogatorv;-;10h 24m
+               Update zoznamu;5h 58m;5h 58m
+               Prerobenie excelu;3h 55m;3h 55m
+               Doplnenie informacii - Jaro / Ado;31m 2s;31m 2s
+          Testovanie sercalo switchu;1h 35m;1h 35m
+          Komunikacia s Bayspecom;1h 16m;1h 16m
+          Organizacia ulohy;-;53m 1s
+               Brainstorming - Jaro;38m;38m
+               Priprava materialov;15m 1s;15m 1s
+          Meeting - Peto / Tomas / Ado;31m;31m
+          Vyroba - meeting - Peto / Ado / Jaro;26m;26m
+          Vstupna kontrola interogatorov;-;13m 20s
+               diskusia - Tomas;13m 20s;13m 20s
+          Upgrade Teamviewer lincencii;11m 47s;11m 47s
+     Design;-;21h 34m
+          Testovanie Illumisense Wave;3h 6m;7h 48m
+               EC test TTL request;1h 18m;3h 18m
+                    testovanie - Jaro;1h 59m;1h 59m
+               Testovanie 804D;1h 23m;1h 23m
+          Modbus;19m 6s;5h 6m
+               Modbus programovanie;4h 35m;4h 47m
+                    Komunikacia so sentinelom;11m 51s;11m 51s
+          Exalos - zdroj svetla - Peto / Jaro / Gabo;15m 8s;4h 37m
+               Jardo - riesenie problemu;1h 56m;2h 15m
+                    Analyza udajov - Excel;18m 50s;18m 50s
+               Fibera - konektorovanie;39m 18s;39m 18s
+               Fibera setup;35m 41s;35m 41s
+               Zaver;35m 14s;35m 14s
+               Update zoznamu interogatorov;16m 38s;16m 38s
+          TFT mail;1h 56m;1h 56m
+          Vyvoj novych zariadeni - meeting Peto / Jaro;1h 37m;1h 37m
+          Research zariadeni - Jardo;28m 52s;28m 52s
+     General;-;2h 49m
+          Vyvoj na nasledujuce obdobie;1m;2h 6m
+               Talk - Jardo;1h 36m;1h 36m
+               Mail - Jardo;28m 55s;28m 55s
+          Meeting - Miso / Edo / Peto / Jaro;37m 27s;37m 27s
+          Vyroba na nasledujuce obdobie;5m 15s;5m 15s
+     1830 - Datalogger;1m 21s;12m 11s
+          Design;-;10m 50s
+               VW koncepty - studovanie;10m 50s;10m 50s
+1444 - Sentinel;12m 49s;188h 59m
+     R&D;-;160h 11m
+          Sentinel 2.0 - support;-;80h 17m
+               Meeting v Andise;22h 24m;22h 24m
+               Vyber funkcii do prvej verzie 2.0;2h 35m;15h 41m
+                    Meeting s Andisom;2h 24m;4h 55m
+                         Priprava na meeting;2h 18m;2h 18m
+                         Posielanie mailu do Andisu;12m 41s;12m 41s
+                    Mail - funkcie Sentinelu;45m;4h 16m
+                         Aktualny stav - Mail - Kukuca;28m 44s;3h 31m
+                              Priprava podkladov na meeting;3h 2m;3h 2m
+                    Casy usetrene novou verziou;1h 18m;1h 18m
+                    Fakturacia - Mail do Andisu;26m 11s;58m 11s
+                         Talk - Peto;32m;32m
+                    Talk - Peto;38m;38m
+                    Talk - Tomas;33m 14s;33m 14s
+                    Meeting;21m 16s;21m 16s
+                    Meeting - Mail;6m 24s;6m 24s
+               Andis meeting - zasadacka 1;7h 3m;7h 3m
+               Sentinel 2.0.0.1;-;7h 2m
+                    Testovanie aplikacie;5h 55m;7h 2m
+                         Mail Mojovi;1h 6m;1h 6m
+               Testovanie nr.1;1h 47m;6h 33m
+                    Mail do Andisu;4h 28m;4h 28m
+                    Brainstorming - Jardo;17m 14s;17m 14s
+               Andis - priprava;1h 3m;4h 10m
+                    Zasadacka - priprava;1h 13m;1h 13m
+                    Priprava na meeting c. 2;1h 9m;1h 9m
+                    Priprava na meeting - Jaro;44m 59s;44m 59s
+               Andis meeting - zasadacka 2;3h 46m;3h 46m
+               Meeting v Andise - switch 1x4;1h 55m;1h 55m
+               Andis nacenenie;27m 50s;1h 48m
+                    Mail do Andisu;1h 4m;1h 4m
+                    Talk s Petom;15m 38s;15m 38s
+               Sentinel 2.0.0.5;-;1h 36m
+                    Testovanie aplikacie;54m 59s;54m 59s
+                    Testovanie vzorcov;41m 31s;41m 31s
+               Andis meeting - zasadacka 3;1h 35m;1h 35m
+               Preco Linux;-;1h 34m
+                    napady;1h 7m;1h 7m
+                    Talk - Peto;26m 57s;26m 57s
+               Sentinel 2.0.0.4;56m 19s;1h 16m
+                    Testovanie aplikacie;20m;20m
+               Talk - Jardo;48m 1s;48m 1s
+               Priprava na meeting - Jardo;31m;31m
+               Sentinel 2.0 1. beta verzia;-;30m 42s
+                    Plan testov;30m 42s;30m 42s
+               Talk - Peto;29m;29m
+               Export / Import nastaveni;25m 1s;25m 1s
+               Mailova komunikacia Andis;24m 47s;24m 47s
+               Telefonat s Mojom;23m 37s;23m 37s
+               Priprava interrogatora;17m 4s;17m 4s
+          Tvorba manualu / specifikacie;-;57h 58m
+               Sentinel specka;25h 6m;25h 6m
+               koncepty S-line merani;2h 17m;15h 13m
+                    Doplnenie do manualu;12h 23m;12h 23m
+                    Flowcharty - Marek;33m 4s;33m 4s
+               Sentinel brainstorming;2h 1m;7h 13m
+                    Brainstorming - Jaro;4h 2m;5h 12m
+                         Peto meeting;1h 9m;1h 9m
+               Koncepty dataloggerov / SW cast;3h 4m;4h 21m
+                    Talk - Jaro;1h 16m;1h 16m
+               Sentinel - koncepty GUI - Marek meeting;2h 29m;2h 29m
+               Meeting Peto / Jaro / Gabo;1h 18m;1h 18m
+               Sentinel 2.0;53m 32s;53m 32s
+               UML diagramy;35m 29s;35m 29s
+               Dohodnutie dalsich krokov Sentinel 1.1 / 2.0;33m 43s;33m 43s
+               Talk s Jardom ohladom S-line Scan 400;13m;13m
+          Sentinel 1.0;-;11h 18m
+               Sentinel 1.0;3m 52s;11h 18m
+                    Testovanie bugfix ID1 Sentinel 1.0;2h 24m;3h 55m
+                         Brainstroming dalsich krokov - Jaro;1h 6m;1h 6m
+                         Navrh testov - Jaro;15m 17s;15m 17s
+                         Talk s Petom o vysledkoch testov;9m 31s;9m 31s
+                    Testovanie Andis bugfix04;2h 2m;2h 2m
+                    Nove screenshoty;1h 18m;1h 18m
+                    Komunikacia s ANDIS;1h 13m;1h 13m
+                    Peto meeting ohladom uprav Sentinel 1.0;1h 4m;1h 4m
+                    Testovanie Andis bugfix03;30m 37s;30m 37s
+                    Testovanie Andis bugfix05 - final;25m 31s;25m 31s
+                    Final check 1.0 - Peto;23m 12s;23m 12s
+                    Testovanie Andis bugfix05;19m 44s;19m 44s
+          Dynamicke meranie - zaklady;-;6h 42m
+               Dynamicke meranie UML;1h 20m;1h 56m
+                    Marek - Visio;35m 51s;35m 51s
+               Talk s Petom - Sentinel dynamicke problemy;1h 54m;1h 54m
+               Dynamicke meranie - priprava;1h 36m;1h 36m
+               Koncepty dynamickeho merania;1h 15m;1h 15m
+          Testovanie 2.0;-;3h 54m
+               Setup systemu;1h 40m;1h 40m
+               Sumar zisteni;1h 8m;1h 8m
+               Zistienia z meetingu;51m 53s;51m 53s
+               Problem so spustenim SW;13m 44s;13m 44s
+     Prototyping & Testing;-;17h 1m
+          Testovanie Sentinel 2.0;2h 48m;17h 1m
+               Test nr.1;3h 53m;3h 53m
+               Nastavenie testov - Jarino;3h 29m;3h 29m
+               Priprava bug-ov na meeting;2h;3h 28m
+                    Priprava dokumentov;1h 28m;1h 28m
+               Testovanie meeting - Tomas, Marek;1h 13m;1h 13m
+               Zber informacii;1h 10m;1h 10m
+               Konzultacia - Kukuca;58m 5s;58m 5s
+     Customer project / product maintenance;-;11h 33m
+          Vyhody Sentinel 2.0;7h 16m;7h 46m
+               Talk - Peto;29m 56s;29m 56s
+          Sentinel Datasheet;2h 13m;2h 13m
+          Upgrade Definicneho suboru - referencovanie Strain;1h 26m;1h 26m
+          Testovanie FTP;7m 46s;7m 46s
+1875 - S-line Scan 800 - Attenuation / Max. number of sensors testing;-;115h 16m
+     Testing & evaluation;-;84h 24m
+          Testovanie maximalneho poctu sniamcov na kanal;15h 23m;29h 18m
+               Vyhodnotenie;1h 40m;7h 9m
+                    Logaritmizacia;2h 31m;2h 31m
+                    Diskusia - Jardo;2h 13m;2h 13m
+                    Problemy - Tomas - Margarethe;43m 41s;43m 41s
+               Splitter testy;4h 18m;4h 18m
+               postupne odstranenie snimacov;2h 27m;2h 27m
+          Testovanie polarizacie;39m 37s;21h 46m
+               Testovanie depolarizatora;8h 13m;8h 13m
+               Tesovanie Polarizatora od Potroka;7h 40m;7h 40m
+               Nove teplotne testy - deploarizator;2h 24m;2h 24m
+               Vysvetlenie nefunkcnosti DEPOL - Potrok;1h 30m;1h 30m
+               Hladania snimacov / upratanie;42m 50s;42m 50s
+               Talk - Edo;35m;35m
+          Vyhodnotenie;-;20h 16m
+               Testovanie depolarizacie;8h 4m;8h 4m
+               Postupne odstranenie snimacov;7h 2m;7h 2m
+               Synchronizacia udajov;2h 35m;2h 35m
+               Sumarizacia zisteni;1h 46m;2h 33m
+                    Talk - Jardo;47m 40s;47m 40s
+          Talk - Jardo;5h 21m;7h 13m
+               Mail chalanom - objednanie vlakna;1h 43m;1h 52m
+                    Talk - Tomas;8m 58s;8m 58s
+          Vstupna kontrola - Micron + Sline 800;2h 18m;2h 18m
+          Vstupna kontrola - 400;1h 48m;1h 48m
+          Testovanie zvysovanie Dynamic Range;1h 43m;1h 43m
+     General;-;25h 40m
+          Meeting - ILC / Chovan;6h 32m;7h 5m
+               Priprava meetingu;33m;33m
+          Mail Chovanovi;3h 5m;3h 5m
+          Meeting - ITR / FFT issues;58m 56s;2h 37m
+               zapis z meetingu;1h 38m;1h 38m
+          Aktualny stav ulohy - neuspesne testovanie;2h 33m;2h 33m
+          Preklopenie do Projectu;2h 21m;2h 21m
+          Priprava na meeting - ITR / FFT issues;1h 39m;1h 39m
+          Studium - depolarizacia zdroja;1h 28m;1h 28m
+          Mail do O-Eland;1h 23m;1h 23m
+          Research Pump laser + EDFA zdrojov;1h 5m;1h 5m
+          Mail - stav ulohy;49m 39s;49m 39s
+          Mail Bramovi;30m 33s;30m 33s
+          objednavka Depol;20m 25s;20m 25s
+          Mail - Marek / Plevi;17m 48s;17m 48s
+          Mail - Testovanie FSG;10m 41s;10m 41s
+          Stav - Talk Peto;7m 13s;7m 13s
+          Stav ulohy - eway;3m 48s;3m 48s
+     Design;-;5h 11m
+          Definicia uloh - Jardo;3h 59m;3h 59m
+          Mail;1h 12m;1h 12m
+Avago;-;96h 8m
+     R&D Projects;-;96h 8m
+          1742 - Low cost ITR;-;83h 3m
+               Testing & Evaluation;-;63h 25m
+                    Testovanie - Sylex;48m;47h 49m
+                         Vyhodnotenie Test #1 a #3;8h 27m;15h 37m
+                              Priprava preliminary report;5h 10m;5h 10m
+                              Priprava grafov;1h 32m;1h 32m
+                              Vysledky - Jardo;15m 33s;15m 33s
+                              Priprava udajov pre Dawida;11m 33s;11m 33s
+                         Priprava 2. reportu;11h 23m;15h 27m
+                              Doplnenie WL do reportu;1h 45m;1h 45m
+                              Check reportu;1h 18m;1h 18m
+                              Vyhodnotenie vysledkov;43m 8s;43m 8s
+                              Check nakladov / Peto;17m 25s;17m 25s
+                         Nastavenie test #1;9h 9m;9h 9m
+                         Meeting - Avago;4h 2m;4h 2m
+                         Prehlad testov;54m 15s;54m 15s
+                         Vlakna na MS-03 - Tomas, Ado;41m 19s;41m 19s
+                         Test interrogatora;34m 12s;34m 12s
+                         Diskusia - Dawid;18m 20s;18m 20s
+                         Test # 3;16m 24s;16m 24s
+                    Testovanie - kalibracia strain;7h 34m;10h 28m
+                         Porovnanie MOI vs. Avago;1h 14m;1h 14m
+                         Instalacia SW;1h 6m;1h 6m
+                         Mail do Avaga;33m 18s;33m 18s
+                    Test #2;2h 8m;2h 8m
+                    Nastavenie komory;1h 38m;1h 38m
+                    Nastavenie test #2;1h 20m;1h 20m
+               Design;-;12h 16m
+                    dohodnut s Avago plan testov;5h 21m;6h 17m
+                         Meeting - Peto;44m 7s;44m 7s
+                         Talk - Peto;8m 39s;8m 39s
+                         Mail;3m 55s;3m 55s
+                    Temperature demonstrator - koncept;-;2h 56m
+                         Athermal FBG;10m;1h 13m
+                              Zistovanie terminov;44m 58s;44m 58s
+                              Cenove ponuky - mail;18m 35s;18m 35s
+                         Koncept - Jaro / Mato;29m;29m
+                         Phone call - Dawid;26m 42s;26m 42s
+                         Mail - Magnus;18m 44s;18m 44s
+                         BOM;17m 14s;17m 14s
+                         Talk - Jaro;11m 45s;11m 45s
+                    Phone call;2h 56m;2h 56m
+                    Diskusia - Jaro;5m 11s;5m 11s
+               General;-;5h 8m
+                    Business case - MR;1h 26m;3h 39m
+                         Definicia custom WL pre 400;1h 4m;1h 4m
+                         Talk - Peto;47m 35s;47m 35s
+                         Talk - Peto / Edo;22m;22m
+                    phone conference;1h 29m;1h 29m
+               Production;-;2h 13m
+                    Vyroba MS-03 + TP-02;19m 10s;2h 13m
+                         Diskusia - Jaro / Marek / Michal;1h 35m;1h 35m
+                         Diskusia - Marek;10m 51s;10m 51s
+                         ISYS - Ado / Peto;7m 59s;7m 59s
+          1399 - OPI;-;13h 4m
+               Vyroba vzoriek 2016_1;19m 13s;8h 30m
+                    Testovanie vzorky;2h 17m;4h 11m
+                         Vyhodnotenie;1h 54m;1h 54m
+                    Nastavenie vzorky 2016_1;2h 3m;2h 3m
+                    Lepenie vzorky 2016_01;1h 55m;1h 55m
+               Hladanie materialov na sklade / evidencia;2h 54m;2h 54m
+               Sumarizacia doterajsich vsyledkov;-;1h 25m
+                    Brainstorming;1h 16m;1h 16m
+                    Diskusia - Edo;9m;9m
+               Phone call Dawid;14m 20s;14m 20s
+Vyvojove ulohy;33m 41s;95h 1m
+     Riadenie vyvojovych uloh;-;82h 52m
+          Update Projectu;30h;39h 57m
+               Reporting;2h 29m;2h 29m
+               Doplnenie Projectu Technica SA;2h 20m;2h 20m
+               Stav uloh - Mail - Tomas;1h 35m;1h 35m
+               Nove ulohy;57m 6s;57m 6s
+               Update nakladov;49m 11s;49m 11s
+               Doplnenie novych uloh - Tomas;41m;41m
+               Diskusia - Tomas;33m;33m
+               Rekonfiguracia - novy notebook;30m 32s;30m 32s
+          planovanie vyvojovych uloh na 2016;57m 20s;34h 33m
+               Hruby plan uloh;4h 58m;26h 6m
+                    Project - Nastavenia;4h 24m;20h 24m
+                         Import Tomasovych uloh;6h 6m;6h 6m
+                         Doplnenie hotovych uloh - mail - Tomas;4h 40m;4h 40m
+                         Uprava - Tomas;3h 44m;3h 44m
+                         Update HW uloh - Jaro;1h 9m;1h 9m
+                         Vytvorenie Eway CRM - Ado;18m 47s;18m 47s
+                    meeting - Tomas;44m 14s;44m 14s
+               Meeting Peto / Tomas / Gabo;5h 52m;5h 52m
+               Meeting - Peto - aktualny stav;39m 29s;39m 29s
+               Meeting - Edo;34m;34m
+               Timecamp - Jardo;24m 5s;24m 5s
+          Doplnenie informacii do Projectu;3h 21m;3h 21m
+          Mail - rozpis uloh;1h 53m;1h 53m
+          Reporty pre Peta na poradu vedenia;1h 12m;1h 12m
+          Diskusia - Peto;50m;50m
+          Meeting - Tomas;40m 16s;40m 16s
+          Ulohy na 2016;52s;23m 2s
+               Zber udajov;22m 10s;22m 10s
+     TRL, TPL;2h 19m;7h 56m
+          TRL, TPL - Tomas;2h 10m;2h 10m
+          Studovanie dokumentov;2h;2h
+          TRL,TPL Meeting - Tomas / Gabo / Edo / Peto;1h 26m;1h 26m
+     Edo - meeting;2h 17m;2h 17m
+     Meeting - Edo / Peto / Tomas;1h 21m;1h 21m
+TOOZ;-;92h 44m
+     Projects;-;89h 37m
+          1609 - Podbiel;1h 31m;89h 37m
+               Evaluation;-;39h 9m
+                    Vyhodnotenie prvych merani - WL to strain;13h 29m;24h 51m
+                         Testovanie MS-03 - bending strain;3h 16m;3h 46m
+                              Testovanie MS-03 / SG-01 / MS-02 bending strain;30m;30m
+                         Meeting - SjF - Analyza vysledkov;2h 10m;2h 10m
+                         Diskusia - Tomas / MAto;1h 49m;1h 49m
+                         Pridanie novych udajov;1h 15m;1h 15m
+                         Averaging reportu;1h 8m;1h 8m
+                         Rekonfiguracia snimacov;38m 31s;38m 31s
+                         Diskusia - Tomas / Mato;19m 22s;19m 22s
+                         Export udajov - Tomas;14m 45s;14m 45s
+                    Analyza Maj 2016;-;12h 39m
+                         Referencovanie VDV;-;6h 31m
+                              Vytvorenie .dat suboru;6h 31m;6h 31m
+                         Referencovanie - Sentinel;1m 17s;1h 55m
+                              Update definicneho suboru;1h 54m;1h 54m
+                         Export uajov - cely mesiac;58m 2s;1h 44m
+                              Generovanie reportu;46m 14s;46m 14s
+                         VDV - referencovanie / research moznosti;53m 31s;53m 31s
+                         Diskusia - Tomas;35m 1s;35m 1s
+                         Talk - Tomas - detaily;33m 20s;33m 20s
+                         Export udajov - obmedzena rychlost;27m 7s;27m 7s
+                    Analyza Jul 2016;-;51m 7s
+                         Export udajov - cely mesiac;51m 7s;51m 7s
+                    Analyza Jun 2016;-;47m 8s
+                         Export udajov - cely mesiac;47m 8s;47m 8s
+               Production;-;21h 5m
+                    VDV;-;12h 56m
+                         Konfiguracia VDV / Marek skolenie;3h 56m;7h 49m
+                              WL txt to VDV db;43m 43s;2h 28m
+                                   Modifikacia udajov;1h 45m;1h 45m
+                              Uprava WL a Sensor txt suborov;1h 24m;1h 24m
+                         Vytvorenie Dashboard;1h 37m;1h 37m
+                         Nastavenie konta;1h 26m;1h 26m
+                         Virtual variables;1h 20m;1h 20m
+                         Alert a Warning nastavenia;43m 14s;43m 14s
+                    Konficguracia Sentinel;7h 41m;7h 41m
+                    Instalacia S-line Sentinel;16m 40s;16m 40s
+                    Modem interrogatora + check merania;11m 6s;11m 6s
+               Maintenance;-;16h 15m
+                    Vyjazd na Podbiel;8h 11m;8h 11m
+                    Kontrola Spectrum na S-Line Scan;5h 37m;5h 37m
+                    Priprava na vyjazd;1h 19m;1h 19m
+                    Restart pocitaca;44m 25s;44m 25s
+                    Diskusia - Jaro;24m;24m
+               Design;-;10h 25m
+                    Debrecen - instalacna skrina;10h 15m;10h 15m
+                    Diskusia - Jaro - regulacia napatia;10m;10m
+               General;-;1h 9m
+                    Meeting - Tomas / Synak;59m;59m
+                    skenovanie;10m 57s;10m 57s
+     Misc;-;3h 6m
+          Analyza nakladov;1h 57m;3h 6m
+               Talk - Peto;58m;58m
+               Mail;11m 1s;11m 1s
+Studium;-;92h 31m
+     Microsoft Project;-;29h 2m
+          Lynda.com - skolenie;23h 55m;23h 55m
+          Lynda.com - Managing Project Risk;5h 6m;5h 6m
+     Nove publikacie;5h 17m;19h 54m
+          Bridge monitoring;8h 39m;8h 39m
+          Search;5h 18m;5h 18m
+          Fiber optic borehole seismic vector;39m 2s;39m 2s
+     HBM Webinar;2h 17m;10h 28m
+          Experimental stress analysis;3h 33m;3h 33m
+          Studium - HBM dokument - Tunnel;1h 41m;1h 41m
+          Optical sensing webinar;53m 1s;53m 1s
+          Fatigue life testing;51m 35s;51m 35s
+          Force measurement;39m;39m
+          Optical interrogator;32m 28s;32m 28s
+     Monitorovanie mostov;8h 14m;8h 14m
+     research - konkurencia;3h 4m;6h 27m
+          Smartec;-;1h 49m
+               Porovnanie SOFO lite vs. Scan 400;1h 49m;1h 49m
+          Fiber optic firmy;1h 4m;1h 4m
+          Measurand - ShapeAccelArray;29m;29m
+     Lynda.com - Linux kurzy;5h 5m;5h 5m
+     Lynda.com - Advanced Microsoft Project;4h 52m;4h 52m
+     Webinar;-;2h 30m
+          LFW AFL distributed sensing;1h 30m;1h 30m
+          Smartec - 20 years of SHM;41m 33s;41m 33s
+          Smartec - SOFO Lite;19m 7s;19m 7s
+     Lynda.com - JIRA;1h 33m;1h 33m
+     Sensuron - Strain measurement;1h 5m;1h 5m
+     Synaptec clanok;57m 56s;57m 56s
+     Technica SA clanok;39m 45s;39m 45s
+     ISHMII Journal;28m 48s;28m 48s
+     Noria - LFW clanok;23m 55s;23m 55s
+     ICE manual of Geotechnical engineering;21m;21m
+     Lynda.com - Agile Project Management;18m 52s;18m 52s
+     EDN Eurpoe;5m 46s;5m 46s
+Organizacia mailov;17h 3m;81h 58m
+     Citanie mailov;64h 54m;64h 54m
+Osterbaai;-;69h 11m
+     Projects;-;63h 46m
+          1667 - Den Helder;3h 22m;60h 33m
+               Maintenance;-;55h 39m
+                    Network repair;24h 35m;30h 59m
+                         rekonfiguracia s-line scan;1h 55m;1h 55m
+                         Kontrola def suboru;1h 35m;1h 35m
+                         Update def suboru;1h 21m;1h 21m
+                         Konfiguracia noveho ITR;55m;55m
+                         Check intenzit WL;36m 40s;36m 40s
+                    Konfiguracia Sentinel - vymazanie probl. peakov;3h 48m;7h 24m
+                         Check nastaveni;3h 5m;3h 5m
+                         Mail Hilkovi;30m;30m
+                    Kontrola nastavenia snimacov;6h 36m;7h 19m
+                         Vymazanie chybnych snimacov;24m 56s;24m 56s
+                         Stav snimacov - Tomas;17m 57s;17m 57s
+                    Mail - Hilko - nastavenie snimacov;3h 16m;3h 16m
+                    Mail - Hilko - kontrola snimacov;58m 15s;58m 15s
+                    Mail - Stav snimacov - Hilko;50m;50m
+                    Phone call - Hilko / Tomas;42m 50s;42m 50s
+                    Nastavenie mailov - Hilko;40m 29s;40m 29s
+                    Meeting - oprava interogatora;40m;40m
+                    Diskusia - Tomas;39m 49s;39m 49s
+                    Konfiguracia noveho interogatora;28m 22s;28m 22s
+                    Topologia - Tomas;27m 9s;27m 9s
+                    Testovanie interogatora;20m 44s;20m 44s
+                    Diskusia problemy - Peto;18m 24s;18m 24s
+                    Diskusia - interrogator fail - Peto / Tomas / Ado;18m;18m
+                    Diskusia - termin instalacie;15m 42s;15m 42s
+               General;-;1h 32m
+                    Mail - Hilko - microstrain problem;51m 32s;51m 32s
+                    Mail - Hilko - Maintenance casy;28m 31s;28m 31s
+                    Mail - Peto, Tomas;12m 13s;12m 13s
+          Vibration testing;38s;3h 12m
+               Analyza udajov;1h 11m;2h 50m
+                    Kodenie makra;1h 25m;1h 25m
+                    Analyza udajov pomocou makra;12m 33s;12m 33s
+               Vibration sensors;21m 52s;21m 52s
+     Maintenance;-;4h 26m
+          Sentinel manual - Hilko;3h 16m;3h 16m
+          SW otazky od Hilka - Tomas;35m 31s;35m 31s
+          Konfguracia Sentinel;30m;33m 55s
+               Problem so sietou - Marek;3m 55s;3m 55s
+     Misc;-;58m 53s
+          campbell scientific riesenie;58m 53s;58m 53s
+FOI;-;56h 46m
+     Vypomoc vo vyrobe - FOI;45h 43m;45h 43m
+     Barcode;-;6h 50m
+          Zistovanie problemu;3m 20s;5h 18m
+               Testovanie softu;5h 15m;5h 15m
+          Meeting;1h 2m;1h 2m
+          Talk - Tomas;28m 26s;28m 26s
+     Meeting s Marianom;1h 13m;1h 13m
+     Prenasanie novych regalov;1h 6m;1h 6m
+     Organizacia - vypomoc - Meranie - meeting s Petom;55m 13s;55m 13s
+     Help Edovi v Projecte;51m;51m
+     Breakout makro;8m 23s;8m 23s
+GSM 2016;-;54h 12m
+     Ucast na GSM 2016;30h;30h
+     Priprava materialov;7h 15m;21h 58m
+          Poppi - MS-03;6h 52m;12h 6m
+               Tvorba textu;4h 24m;4h 24m
+               Uprava;30m 8s;30m 8s
+               Talk - Peto;19m 18s;19m 18s
+          Poppi - Profil;1h 24m;1h 24m
+          Odpoved Johnovi;45m 32s;45m 32s
+          Phone call - Peto;19m 7s;19m 7s
+          Datasheet;7m 39s;7m 39s
+     Nastavenie Sentinelu;1h 5m;2h 2m
+          Otestovanie konfiguracneho suboru;56m 52s;56m 52s
+     Diskusia - Tomas;12m;12m
+1439 - Polyimide FFT;-;47h 12m
+     Design;-;39h 52m
+          Specifikacia standardnych vlnovych dlzok;2h 33m;36h 54m
+               Nova specka WL;9h 22m;22h 16m
+                    Prerobenie sablony podla novych poziadaviek;10h 23m;10h 36m
+                         Diskusia - Ado;13m;13m
+                    Finalizacia - Ado / Peto / Tomas;1h 4m;1h 4m
+                    Diskusia - Peto;24m 45s;24m 45s
+                    Custom zadanie;23m 13s;23m 13s
+                    Finalizacia - Ado;14m;14m
+                    Phone call - Tomas;11m 17s;11m 17s
+               Re-check vsetkych WL;2h 48m;4h 49m
+                    Porovnanie teoretickych a realnych WL;1h 48m;1h 48m
+                    Kontrola PN vlakien;11m 41s;11m 41s
+               Diskusia Peto / Gabo;2h 59m;2h 59m
+               Diskusia Peto / Tomas / Gabo;1h 23m;1h 23m
+               Diskusia Peto / Tomas / Gabo;1h 18m;1h 18m
+               D-01 standardne WL;1h 4m;1h 4m
+               Tomas - check definovanych WL;30m 37s;30m 37s
+          Transformer temperature monitoring;-;2h 36m
+               Mail - Petovi;1h 10m;1h 10m
+               Phone call - Magnus + diskusia s Petom;1h 5m;1h 5m
+               Snimacia siet - Marek;13m 9s;13m 9s
+               vzorky pre Avago;7m 19s;7m 19s
+          Spektrum FFT;21m 25s;21m 25s
+     Testing & Evaluation;-;3h 46m
+          Vyhodnotenie noveho BI vlakna;46m 13s;3h 46m
+               Tomasov mail;2h 53m;2h 53m
+               Diskusia ohladom polarizacie - Tomas;7m;7m
+     General;-;3h 33m
+          Priprava na meeting s Margarethe;2h 37m;2h 37m
+          Diskusia - Tomas - Variabilita parametrov FFT mriezok;31m;31m
+          Mail od Margarethe;24m 54s;24m 54s
+Inversion sensor;-;44h 12m
+     Projects;-;37h 34m
+          1776 - Displacement sensors;-;29h 48m
+               Evaluation;-;23h
+                    Vyhodnotenie kalibracie;3h 19m;23h
+                         Kalibracia novych kusov;4h 7m;6h 17m
+                              Vypocet predlzenia kalibrov;2h 9m;2h 9m
+                         Vyvoj novej metody;2h 25m;3h 17m
+                              Doplnenie verifikacnych cyklov;26m 41s;26m 41s
+                              Doplnenie udajov;19m 26s;19m 26s
+                              Doplnenie kalibrov;5m 52s;5m 52s
+                         Prerabka logovacich suborov;2h 21m;2h 21m
+                         Diskusia - Tomas;2h 16m;2h 16m
+                         Overovacie cykly;1h 36m;1h 36m
+                         Prerabka teplotnych kalibracii;1h 25m;1h 25m
+                         Vypocet predlzenia kalibrov;1h 13m;1h 13m
+                         Overenie kalibracie;34m 11s;34m 11s
+                         Kompenzacia roztaznosti kalibrov;22m 17s;22m 17s
+                         Rekalibracia na rigu - Plevi;15m 8s;15m 8s
+               Production;-;4h
+                    Vytvorenie kalibracnych listov - Marek;2h 5m;2h 5m
+                    Kalibracia snimacov - Plevi;1h 28m;1h 28m
+                    Nastavenie komory - kalibracia - Marek / Tomas;26m;26m
+               Design;-;1h 59m
+                    Kalibracna sablona;1h 8m;1h 8m
+                    Vyroba D-01 a MS-01 FFT;34m 19s;34m 19s
+                    D-0x;-;16m 7s
+                         Check WL range;16m 7s;16m 7s
+               General;-;48m
+                    Diskusia - Tomas / Marek;48m;48m
+          1723 - MS-01 / D-01;-;7h 46m
+               Evaluation;-;7h 46m
+                    Vyhodnotenie kalibracii;3h 46m;7h 46m
+                         Vypocet predlzeni;1h 38m;1h 38m
+                         Overenie strainovej kalibracie;1h 24m;1h 24m
+                         Check kalibracnych listov;37m 1s;37m 1s
+                         Diskusia - Tomas;15m;15m
+                         Overenie kalibracnych udajov;5m 46s;5m 46s
+     Misc;-;4h
+          Check kalibracnych listov;3h 3m;3h 3m
+          Zlomene MS-01;47m;57m
+               Talk - Tomas;10m;10m
+     Maintenance;-;2h 37m
+          Kalibracia MS-01 - Problem - Plevi;2h 37m;2h 37m
+1459 - Testy membran tlakovych snimacov;-;41h 54m
+     Design;-;33h 15m
+          Koncepty transducerov - meeting Mato;4h 30m;33h 15m
+               Priprava prezentacie;11h 47m;13h 21m
+                    Studium - geotechnicke pojmy;1h 10m;1h 10m
+                    Studium - strain-stress;24m 15s;24m 15s
+               Piezometer - studium;7h 52m;7h 52m
+               Studium - Load cell koncepty;6h 6m;6h 6m
+               Nove technologie FBG;58m 44s;58m 44s
+               Peto - transducery;25m 58s;25m 58s
+     Testing & evaluation;-;6h 6m
+          Vyhodnotenie kalibracie;2h 34m;5h 51m
+               Prerabka vzorcov;2h 16m;2h 16m
+               Diskusia - Tomas;50m 51s;50m 51s
+               Overovacie cykly;9m 31s;9m 31s
+          Prehlad testov - mail;14m 49s;14m 49s
+     Production;-;2h 32m
+          Vyroba FFT membran - mail - zadanie;17m 42s;2h 32m
+               Postup testov;1h 7m;1h 7m
+               Kalibracia vzoriek;55m 29s;1h 7m
+                    Diskusia - Tomas;12m;12m
+1859 - S-line Scan 800 - Ejtech and Birefringence testing;-;41h 30m
+     Testing & Evaluation;-;28h 2m
+          Nastavenie testov;8h 46m;8h 46m
+          Testy S-line Scan;-;4h 37m
+               Vyhodnotenie testov;2h 23m;2h 23m
+               Nastavenie testov;1h 27m;1h 27m
+               Diskusia - Jardo;47m;47m
+          Testy spotreby;-;3h 14m
+               Nastavenie testov;2h 53m;2h 53m
+               Vyhodnotenie;21m;21m
+          Vyhodnotenie bending testov;1h 1m;3h 7m
+               Diskusia - Jardo;2h 6m;2h 6m
+          Testoavnie utlm vs vlnova dlzka;3h 1m;3h 1m
+          Testy kombinacie S-lin Scan a Switch;-;1h 18m
+               Nastavanie testov;1h 18m;1h 18m
+          Vyhodnotenie druhych testov - Scrambler na MOI;1h 17m;1h 17m
+          Vyhodnotenie prvych testov - bez scramblera;1h 1m;1h 1m
+          Talk - Peto;40m;40m
+          Nastavenie komory;25m 34s;25m 34s
+          Vyhodnotenie tretieho testu - Scrambler na S-line Scan;21m 4s;21m 4s
+          Zber udajov;11m;11m
+     Design;-;11h 7m
+          Cenove ponuky na Polarization Switch / Scrambler;26m 36s;10h 42m
+               Laser linewidth, Coherence length;4h 6m;4h 6m
+               Zapojenie zariadenia;2h;2h
+               Talk - Jaro;1h 39m;1h 39m
+               Mail;41m 10s;41m 10s
+               Diskusia - Peto / Bram / Tomas / Potrok;28m 51s;28m 51s
+               Mail Bramovi;27m 49s;27m 49s
+               Mail - Wajih;27m;27m
+               Talk - Peto;25m 12s;25m 12s
+          Mail - doodnutie detailov;25m 8s;25m 8s
+     General;-;2h 20m
+          Fugro / Faz - Birefringence dokument;1h 45m;1h 45m
+          Meeting - Peto / Ado / Tomas / Jardo;31m;31m
+          Objednavka polarizatora;4m;4m
+SW na analyzu udajov;-;38h 56m
+     zadanie uloh Danovi;1h 9m;28h 26m
+          Priprava;19m 32s;17h 53m
+               Synchronizator;1h 46m;17h 34m
+                    Testovanie;3h 31m;11h 58m
+                         Visual Studio tasks;6h 38m;6h 38m
+                         Priprava Test case-ov;1h 48m;1h 48m
+                    Example materialy / popis;3h 48m;3h 48m
+          Testovanie;3h 42m;3h 42m
+          Podrobny rozpis uloh;2h 54m;2h 54m
+          Talk Dano;2h 10m;2h 10m
+          Testovanie c.3;35m 47s;35m 47s
+     Specka - meeting - Marek;2h 20m;10h 2m
+          Testovanie c.2;4h 49m;4h 49m
+          Testovanie c.1;2h 25m;2h 25m
+          Zadanie uloh Danovi - Marek;26m 41s;26m 41s
+     Meeting - Marek / Peto;28m;28m
+Eurovia;-;38h 28m
+     Projects;-;38h 28m
+          1426 - Stary most;5m 1s;38h 28m
+               Maintenance;-;26h 31m
+                    rekonfiguracia sieti;18m;17h 37m
+                         Najst spravne definicie snimacov;6h 1m;6h 1m
+                         Zapojenie snimacov;2h 32m;2h 32m
+                         Check intenzit peakov;2h 21m;2h 21m
+                         Nulovanie snimacov;2h 7m;2h 7m
+                         Nastavenie integration time a threshold;1h 56m;1h 56m
+                         Stary most - aktualny stav - mail;1h 39m;1h 39m
+                         SHP - mail ohladom nenulovanych snimacov;20m 51s;20m 51s
+                         Check WL logov;20m 33s;20m 33s
+                    Vyjazd na Stary most - Jaro;3h 21m;3h 21m
+                    Instalacia Sentinel bugfix07 - novy vzorec na novy komp;1h 57m;1h 57m
+                    Reinstall Teamvieweru;47m 23s;47m 23s
+                    instalacia Sentinel - Andis bugfix01;45m 53s;45m 53s
+                    Test interogatora;10m 39s;45m 39s
+                         Konfiguracia Sentinel;35m;35m
+                    Nachystanie veci;45m;45m
+                    Instalacia Sentinel bugfix07 - novy vzorec;30m 46s;30m 46s
+               Production;-;8h 31m
+                    instalacia;8h 31m;8h 31m
+               Evaluation;-;3h 20m
+                    Check Sensor Log;2h 1m;2h 18m
+                         Talk - Peto;16m 48s;16m 48s
+                    clanok do IS;20m 49s;20m 49s
+                    SHP komunikacia;20m 40s;20m 40s
+                    Petov report- check;15m 54s;15m 54s
+                    Check reportov;4m 44s;4m 44s
+Getec;42m 39s;38h
+     Projects;-;29h
+          1755 - Tendon strand monitoring;20m 5s;20h 10m
+               Maintenance;-;10h 24m
+                    Interrogator - mail - Justin;25m 33s;8h 44m
+                         Instalacia Sentinel - Paul;2h 13m;2h 13m
+                         Instalacia Sentinel - Justinov laptop;2h 8m;2h 8m
+                         Instalacia Sentinel;1h 39m;1h 39m
+                         Check interogatora;1h 15m;1h 15m
+                         Instalacia Sentinel 2. interrogator;46m 50s;46m 50s
+                         Paul - problemy s interogatorom;15m;15m
+                    Instalacia Sentinel - Daniel;1h 10m;1h 10m
+                    Paul - problem so snimacom - Mail - Peto;30m;30m
+               Design;-;7h 29m
+                    Konfiguracia SC-11;26s;6h 2m
+                         Manual na nulovanie snimacov;2h 58m;2h 58m
+                         Diskusia - Peto;1h 52m;1h 52m
+                         Vytvorenie config suboru;1h 11m;1h 11m
+                    Koncept - Peto;1h 15m;1h 15m
+                    CSIC - distributed riesenie;11m 58s;11m 58s
+               General;-;1h 20m
+                    Meeting Peto / Ado / Tomas;58m 43s;58m 43s
+                    Mail Peto / Ado / Tomas;20m 54s;20m 54s
+                    Vizum - vybavenie;1m 6s;1m 6s
+               Evaluation;-;36m
+                    Kalibracia SC-11;36m;36m
+          1707 - Tideway Central Sewer Monitoring;-;5h 7m
+               Production;-;5h 7m
+                    Testovanie sieti / konfiguracia Sentinel;4h 58m;4h 58m
+                    Kalibracia;8m 56s;8m 56s
+          1191 - Hamburg Sewer;1m 2s;2h 22m
+               Maintenance;-;2h 21m
+                    Instalacia Sentinel 1.0 (Andis bugfix05);2h 3m;2h 3m
+                    Nastavenie SW;18m 10s;18m 10s
+          Pile monitoring;-;1h 19m
+               General;-;1h 19m
+                    Historia mailov / analyza udajov;51m 52s;51m 52s
+                    Diskusia - Peto;28m;28m
+     Misc;-;4h 28m
+          Meeting - Julian;51s;2h 47m
+               Priprava;2h 46m;2h 46m
+          Zoznam zariadeni pre Ada;1h 1m;1h 1m
+          Sewer monitoring;30m;30m
+          Smart cable;10m 8s;10m 8s
+     R&D Projects;-;2h 54m
+          1514 - Channel Tunnel;1h 40m;2h 54m
+               Design;-;50m 7s
+                    Konfiguracia Sentinel;50m 7s;50m 7s
+               Testing & Evaluation;-;23m 55s
+                    Kalibracia - vyhodnotenie;23m 55s;23m 55s
+     Maintenance;-;53m 32s
+          Konfiguracia snimacov na vystavu;47m 2s;47m 2s
+          Interrogator problem - Justin;6m 30s;6m 30s
+Capris;3m 50s;35h 29m
+     Projects;-;35h 17m
+          660 - Bridge in Costa Rica;-;35h 17m
+               Evaluation;-;27h 20m
+                    LC-02 vs. EPS;-;21h 30m
+                         Nastavenie testov;15h 34m;15h 34m
+                         Vyhodnotenie;5h 7m;5h 7m
+                         Diskusia - Peto;48m 35s;48m 35s
+                    Encardio rite EPS setup;1h 57m;3h 27m
+                         Test - Jardo;1h 30m;1h 30m
+                    Kalibracia LC-02;1h 23m;2h 23m
+                         Kalibracia fakulta - support chalani;48m;48m
+                         Prenos zavazi;12m;12m
+               General;-;7h 56m
+                    Mail Alexisovi;1h 47m;7h 49m
+                         Total Soil Stress;4h 31m;4h 31m
+                         Phone conference - MCH / Capris / Lowy;1h 24m;1h 24m
+                         Kupa Total Soil Pressure Cell z Geosense - Peto;4m 59s;4m 59s
+                    Diskusia Peto/Tomas;7m;7m
+     Koncepty;7m 56s;7m 56s
+1443 - MS-03;13m 36s;31h 46m
+     Testing & Evaluation;-;25h 44m
+          MS-03 navarena na ocelovu platnu;1h 10m;24h 7m
+               Vyhodnotenie merani;13h 23m;13h 40m
+                    Talk - Tomas;17m;17m
+               Talk - Tomas;4h 2m;4h 2m
+               Nsatevenie testov;2h 56m;2h 56m
+               Navaranie - Mato - fakulta;1h 55m;1h 55m
+               Mail - Tomas, Mato;23m 19s;23m 19s
+          Kalibracia;1h 21m;1h 21m
+          Kalibracia - help;16m 27s;16m 27s
+     Design;-;4h 1m
+          Diskusia - teplotny behavior / Tomas;2h 20m;3h 21m
+               Diskusia - Tomas / Mato;36m;36m
+               Check vysledkov;25m 5s;25m 5s
+          Diskusia - Tomas;40m;40m
+     General;-;1h 46m
+          MS-03 meeting;1h 31m;1h 31m
+          Stav MS-03;15m;15m
+1913 - Testing of pressure sensors (Fugro);-;28h 17m
+     Testing & Evaluation;-;28h 17m
+          Vyhodnotenie kalibracie;15h 38m;15h 38m
+          Kalibracia snimaca - Brano;12h 38m;12h 38m
+Fugro;-;23h 27m
+     Projects;-;18h 22m
+          1806 - Pile monitoring;-;18h 22m
+               Production;-;6h 32m
+                    Kalibracne listy - Plevi;3h 3m;3h 59m
+                         kontrola;55m 52s;55m 52s
+                    kalibracia vzoriek - Plevi;2h 32m;2h 32m
+               General;-;4h 25m
+                    Export udajov - Podbiel;2h 25m;2h 51m
+                         Talk - Tomas;25m 18s;25m 18s
+                    Vysvetlenie teplotnej kalibracie - Devrez;1h 34m;1h 34m
+               Maintenance;-;2h 49m
+                    Najst spravny kalibraciu;2h 49m;2h 49m
+               Evaluation;-;2h 44m
+                    Skuska kalibracie MS-03;1h 31m;1h 39m
+                         diskusia - marek;8m;8m
+                    kalibracia;1h 5m;1h 5m
+               Design;-;1h 49m
+                    Devrez - MS-03 request;3m 8s;1h 49m
+                         Check Tomasova tabulka;1h;1h
+                         Check WL range;46m 6s;46m 6s
+     R&D Projects;-;3h 43m
+          1743 - Fugro - Strain insert testing;-;3h 43m
+               Design;-;3h 43m
+                    Devrez - phone conference;3h 36m;3h 36m
+                    Studovanie problematiky;6m 18s;6m 18s
+     General;-;1h 22m
+          Pomoc pri vyhodnteni kalibracie;1h 13m;1h 13m
+          Mail - Peto / Belus;9m 18s;9m 18s
+Timecamp;-;22h 22m
+     Report pre Peta;51m 28s;10h 5m
+          Report August - November;2h 9m;6h 4m
+               Analyza - Marekov report;3h 14m;3h 14m
+               Analyza - Petov report;41m 18s;41m 18s
+          Celorocny report;2h 19m;3h 9m
+               Talk - Peto;50m;50m
+     Vyrvorenie kategorii;4h 27m;6h 57m
+          Skuska importu - Marek;59m 13s;59m 13s
+          Talk - Peto;52m 21s;52m 21s
+          Check importu;23m 46s;23m 46s
+          Help - Mato;15m;15m
+     Organizacia uloh;1h 40m;2h 20m
+          Doplnenie chybajucich casov;40m 30s;40m 30s
+     Meeting;1h 54m;1h 54m
+     Priprava na meeting;1h;1h
+     Mail;4m 54s;4m 54s
+Kiwa;39s;19h 58m
+     Projects;-;17h 26m
+          1368 - Benthuizen;-;14h 22m
+               Evaluation;-;11h 50m
+                    Benthuizen - analyza udajov;5h 52m;11h 50m
+                         Vypocet stress;3h 5m;5h 57m
+                              Nastavenie snimaca u Robberta;1h 11m;1h 11m
+                              Novy vzorec do Sentinel;1h 10m;1h 10m
+                              Mail - Robbert;31m 23s;31m 23s
+               Maintenance;-;2h 32m
+                    Benthuizen - update Sentinel;1h 32m;1h 32m
+                    Benthuizen rekonfiguracia;58m 1s;58m 1s
+                    Benthuizen S-line View problemy;2m 34s;2m 34s
+          Sandworm;-;3h 3m
+               Sandworm 2;-;1h 42m
+                    Konfiguracia Sentinel;1h 42m;1h 42m
+               Testovanie Sandworm;1h 21m;1h 21m
+     Maintenance;-;2h 31m
+          Instalacia S-line comp;2h 31m;2h 31m
+CERN;23m;17h 17m
+     Meeting;8h;8h
+     Priprava - Plevi;3h 35m;3h 35m
+     Talk - Peto;2h 58m;2h 58m
+     Phone call;58m;58m
+     Instalacia Sentinel;40m;40m
+     Priprava veci na meeting;18m 14s;18m 14s
+     Mail od Peta;13m 52s;13m 52s
+     Talk - Tomas;10m;10m
+Organizacne veci;-;12h 53m
+     FOS meeting;5h 4m;5h 4m
+     Meeting - Marek - stahovanie;29m 8s;1h 58m
+          stahovanie;1h 24m;1h 24m
+          Upratanie OPI skrine;5m 24s;5m 24s
+     Upratanie stola;1h 41m;1h 52m
+          Prenasanie veci;11m;11m
+     Meeting - Peto;1h 13m;1h 13m
+     Vyroba pocas dovoleniek - Marek / Tomas;1h 6m;1h 6m
+     BOZP skolenie;1h;1h
+     Call s Tomasom;40m;40m
+S-line View 1.0;-;11h 20m
+     General;-;8h 23m
+          Simulacia casov nastavenia VDV;3h 4m;3h 16m
+               Talk - Peto;12m 6s;12m 6s
+          Cloud monitoring solutions;1h 24m;1h 24m
+          Priprava na phone call s Thorarinnom;1h 6m;1h 6m
+          Phone call s Thorarinnom;53m 2s;53m 2s
+          Otazky ohladom Dashboard - Thorarinn;51m 6s;51m 6s
+          Riesenie zemny poctu snimacov - Thorarinn, Andres;32m 42s;32m 42s
+          Otazky na Thorarinna ohladom alert a warning;19m 14s;19m 14s
+     Maintenance;-;2h 57m
+          VDV 2016;1h 7m;2h 21m
+               Backup / Instalacia;1h 13m;1h 13m
+          Sprava servera;36m 14s;36m 14s
+FOS - others;-;10h 36m
+     Kalibracne makra;-;10h 36m
+          Nove makro pre teplotne snimace;7h 54m;10h 36m
+               Novy vzorec;1h 32m;1h 32m
+               Implementacia do Sentinelu 1.0;37m 42s;37m 42s
+               Check novych kalibracnych listov;17m 53s;17m 53s
+               Novy vzorec do kalibracnych listov;13m 35s;13m 35s
+Problemy;-;8h 35m
+     Nastavenie notebooku;3h 50m;3h 50m
+     Zalohovanie udajov;1h 54m;1h 54m
+     Cistenie kompu - odinstalovanie;1h 21m;1h 21m
+     Oprava notebooku;1h 15m;1h 15m
+     Problem s TeamViewer;14m 31s;14m 31s
+1855 - Mortar project;-;8h 23m
+     Testing & Evaluation;-;8h 23m
+          Prvy tyzden logovania;3h 17m;3h 17m
+          Zapnutie testov;2h 30m;2h 30m
+          Logovanie;1h 46m;1h 46m
+          Uprava logovania, upratanie kablov;26m 2s;26m 2s
+          Zapnutie testov - Plevi;24m 29s;24m 29s
+EC -Test systems;-;8h
+     Misc;-;5h 9m
+          Illumisense Wave / Strain datasheet;1h 9m;1h 9m
+          Interrogator tender;58m 21s;58m 21s
+          Prerobenie kalibracnych listov;53m 22s;53m 22s
+          Check kalibracnych listov;52m 50s;52m 50s
+          Illumisense Wave / Strain;43m 43s;43m 43s
+          Testovanie zaraidenia;32m 24s;32m 24s
+     Projects;-;1h 45m
+          1713 - Naval Academy;-;1h 27m
+               General;-;1h 27m
+                    Uvod;56m 33s;56m 33s
+                    Diskusia - Ado;31m 2s;31m 2s
+          1750 - Bridge monitoring;-;17m 41s
+               General;-;17m 41s
+                    Uvod;17m 41s;17m 41s
+     Maintenance;-;1h 5m
+          Instalacia Sentinel;1h 5m;1h 5m
+Actphast;-;6h 51m
+     Meeting - Peto / Edo / Gabo;3h 49m;3h 49m
+     Kick-off meeting;1h 15m;1h 15m
+     Phone conference - Edo;1h 10m;1h 10m
+     Maily;22m 39s;22m 39s
+     Diskusia - Peto;15m;15m
+MS Systems;-;6h 26m
+     Projects;-;6h 26m
+          1897 - Kuryk project;-;3h 24m
+               Production;-;2h 6m
+                    Nastavenie / test zostavy;1h 51m;1h 51m
+                    Check kalibracnych listov;15m 31s;15m 31s
+               General;-;1h 17m
+                    Lokalizacia Sentinelu;-;1h 17m
+                         Mail;1h 17m;1h 17m
+          1715 - Harbor project;-;3h 1m
+               Production;-;2h 35m
+                    Nastavenie MOI pre problematicke peaky - teplotna kalibracia;1h 34m;1h 34m
+                    Testovanie S-line Scan+comp;55m 5s;55m 5s
+                    Check kalibracnych listov;6m 6s;6m 6s
+               Evaluation;-;26m
+                    Check Tomasovho reportu;26m;26m
+FBGS;-;5h 15m
+     Misc;-;4h 2m
+          Vyhodnotenie kalibracie TC-03;2h 5m;2h 5m
+          Mail ohladom FFT a PI;23m 2s;1h 8m
+               Talk - Jardo;26m 23s;26m 23s
+               Talk - Peto;9m 45s;9m 45s
+               Mail do Fugra / Faz - Tomas;9m 39s;9m 39s
+          Check kalibracnych dokumentov - TC-03;40m 10s;40m 10s
+          Check kalibracnych listov;7m 55s;7m 55s
+     Projects;-;1h 13m
+          Kvalifikacia S-line Scan;-;38m 42s
+               Mail - Bram;38m 42s;38m 42s
+          PI Femtosecond fiber;-;34m 28s
+               Mail - Peto / Bram;34m 28s;34m 28s
+1756 - Vibracne testy;1h 48m;4h 55m
+     Design;-;3h 6m
+          Meeting s Chmelkom na SjF;1h 45m;1h 45m
+          Dohodnutie detailov s Matom;1h;1h 21m
+               Mail;20m 37s;20m 37s
+Ejtech;-;4h 35m
+     Projects;-;3h 8m
+          XXX - Interrogator;-;3h 8m
+               Production;-;2h 15m
+                    Balenie / Priprava / nastavenie / testovanie / kalibracne listy;1h 32m;1h 32m
+                    Kalibracne listy - Plevi;43m 20s;43m 20s
+               General;-;53m 18s
+                    Mail - vysledky testov;53m 18s;53m 18s
+     General;-;1h 26m
+          Testovanie interogatorov - Jardo;1h 26m;1h 26m
+Technobis;-;4h 19m
+     Meeting;3h;3h
+     Talk - Peto;1h 13m;1h 13m
+     Rolfov email;6m 15s;6m 15s
+1818 - D-0x FFT;-;4h 6m
+     Design;-;4h 6m
+          Makro na kalibraciu;4h 6m;4h 6m
+Audit;-;3h 50m
+     Priprava na audit;-;3h 20m
+          Vyvojove ulohy - Edo;2h 27m;2h 27m
+          PO na TimeCamp;52m 40s;52m 40s
+     Meeting;30m;30m
+ANV s.r.o.;-;3h 47m
+     General;-;3h 47m
+          Introduction meeting;3h 47m;3h 47m
+Vyrobne zariadenia v SX;-;3h 28m
+     Strain rig;10m 39s;2h 32m
+          Uprava kalibracneho makra;57m 9s;57m 9s
+          Kalibracia, diskusia - Tomas;50m 45s;50m 45s
+          Vymena Thorlabs;33m 33s;33m 33s
+     MO SM125;-;56m
+          Problem SM125;28m 36s;56m
+               Mail do Micron Optics;27m 24s;27m 24s
+Tencate;-;3h 19m
+     General;-;3h 19m
+          S-line Scan - 10 years warranty risk management;2h 27m;2h 27m
+          Olivier - SCN86 request;51m 3s;51m 3s
+Anglictina;3h 6m;3h 6m
+Geosinergia;-;2h 52m
+     Maintenance;-;2h 52m
+          Pressure calibration formula - P-01;-;2h 52m
+               Mail - Alexis;2h 52m;2h 52m
+All employee;2h 47m;2h 47m
+NIF zrt.;-;2h 24m
+     Mail do madarciny;2h 24m;2h 24m
+Magistrat Bratislavy;-;2h 9m
+     Misc;-;2h 9m
+          Priprava na meeting;-;1h 12m
+               Nachystanie ITR;45m 4s;45m 4s
+               Meeting - Peto/Tomas;27m;27m
+          Mail od Peta;31m 13s;31m 13s
+          Mailing;25m 54s;25m 54s
+Encardio Rite;-;1h 58m
+     Misc;-;1h 58m
+          Priprava na meeting;1h 3m;1h 3m
+          Meeting;55m;55m
+Slovnaft;-;1h 50m
+     General;-;1h 50m
+          Priprava na meeting;1h 50m;1h 50m
+Technicasa;44m 25s;1h 41m
+     Misc;-;56m 48s
+          introduction;56m 48s;56m 48s
+Samuel Igor - diplomova praca;-;1h 38m
+     Zadanie uloh - Jardo;1h 38m;1h 38m
+Monitoring Systems;1h 35m;1h 35m
+Smartfibres;46s;1h 32m
+     Misc;-;1h 31m
+          Vypocet vyosenia snimaca - Tomas;1h 2m;1h 2m
+          Kalibracia;26m 14s;26m 14s
+          FWHM a Reflectivity;3m 4s;3m 4s
+Lactec;-;1h 23m
+     Misc;-;1h 23m
+          Mail od Ada;1h 3m;1h 3m
+          Meranie elongation pomocou SC-01 - Tomas;20m;20m
+SVF STU;-;1h 22m
+     Imrich Liptak;-;1h 22m
+          Lucia;-;46m
+               Teplotna kalibracia - mail;46m;46m
+          Exkurzia;36m;36m
+Geo Van;-;1h 14m
+     Misc;-;40m
+          Zistvanie problemu na ES-01;40m;40m
+     General;-;34m 14s
+          Definicia custom WL pre D-02;34m 14s;34m 14s
+Geodestek;-;1h 10m
+     Misc;-;1h 10m
+          Introduction mail;1h 10m;1h 10m
+Exalos;-;1h 10m
+     General;-;1h 10m
+          Meeting;1h 10m;1h 10m
+Opticke zvaracie kable;-;56m 7s
+     Studium principu;56m 7s;56m 7s
+Portuguese research institue;-;52m 36s
+     Introduction;52m 36s;52m 36s
+Pont-terv;-;45m 11s
+     General;-;45m 11s
+          Introduction mail - preklad;45m 11s;45m 11s
+Publikacie;-;38m 44s
+     VDV publikacie;-;29m 49s
+          Prehlad existujucich publikacii;29m 49s;29m 49s
+     Napady - Tomas;8m 55s;8m 55s
+Osmos;-;37m 32s
+     Misc;-;37m 32s
+          Talk - Peto;37m 32s;37m 32s
+Missure Mecanicche;-;32m 47s
+     General;-;32m 47s
+          Check kalibracnych listov;32m 47s;32m 47s
+FOS - General;-;26m 57s
+     General;-;26m 57s
+          Nove kalibracne sablony pre teplotne snimace;26m 57s;26m 57s
+Distrelec;-;24m 51s
+     Meeting;24m 51s;24m 51s
+Producteev;-;24m 43s
+     Tutorials;24m 43s;24m 43s
+Savcor;-;24m 32s
+     Projects;-;24m 32s
+          Crussel bridge;-;24m 32s
+               General;-;24m 32s
+                    Uvod;24m 32s;24m 32s
+Cellco;-;21m 53s
+     Maintanance;-;13m
+          Vypocet WL pri 85C;13m;13m
+     Misc;-;8m 53s
+          Check OSA;8m 53s;8m 53s
+Socotec;-;21m 7s
+     Projects;-;21m 7s
+          XXX - Gregory 1;-;21m 7s
+               Accelerometer check;21m 7s;21m 7s
+GSM 2017;-;17m 13s
+     Introduction;17m 13s;17m 13s
+RST instruments;-;16m 59s
+     Misc;-;16m 59s
+          Introduction mail;16m 59s;16m 59s
+Zerlux Hungary;-;14m 14s
+     Introduction;14m 14s;14m 14s
+1438 - Testy teplotnej kompenzacia;-;13m 2s
+     Design;-;13m 2s
+          Technologia - Tomas- Meeting;13m 2s;13m 2s
+GoToMeeting;-;10m
+     Introduction;10m;10m
+Agidens;-;9m 55s
+     Misc;-;9m 55s
+          Uvod;9m 55s;9m 55s
+Zilinska univerzita;-;6m 8s
+     Check kalibracnych listov;6m 8s;6m 8s
+Sales - quick request;3m 22s;3m 22s
+(time without task assigned);53s;53s
+Total;1757h 9m;1757h 9m
+;;

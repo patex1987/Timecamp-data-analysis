@@ -1,0 +1,1156 @@
+Name;Hours without subtasks;Hours with subtasks
+S-Line Scan;3.32;11786.00
+|1813 - S-line Scan 400 Axsun;0.00;8099.00
+||Testing & Evaluation;0.00;5719.00
+|||Vyhodnotenie;0.00;2436.00
+||||Wl range sweep;0.00;1177.00
+|||||1. test;579.00;579.00
+|||||3.snimac;262.00;262.00
+|||||2. snimac;251.00;251.00
+|||||4. snimac;83.00;83.00
+||||Fitovanie;0.00;857.00
+|||||Test nr.5;259.00;304.00
+||||||Talk - Jaro;45.47;45.47
+|||||Test nr.6;234.00;234.00
+|||||Test nr. 4;229.00;229.00
+|||||Test nr.7;82.00;82.00
+|||||Test nr. 3;6.30;6.30
+|||||Test nr. 2;1.08;1.08
+||||Testovanie VOA;0.00;237.00
+|||||WL nr. 4;184.00;184.00
+|||||WL nr. 3 VOA0;52.78;52.78
+||||Postupne spajanie snimacov - test 1875;163.00;163.00
+|||Testovanie fitovania / cely WL range;749.00;1495.00
+||||Sensor nr. 2;233.00;233.00
+||||Sensor 3 opakovane testy;232.00;232.00
+||||Sensor nr.3;216.00;216.00
+||||Sensor nr. 4;65.00;65.00
+|||Testovanie fitovania;0.00;1410.00
+||||Test nr. 2;343.00;343.00
+||||Test nr.7 - Testovanie VOA2;320.00;320.00
+||||Testovanie nr.3;265.00;265.00
+||||Test nr.1 - Jardo;203.00;203.00
+||||Testovanie nr.5 - Scrambler + dlhe ustalenie;194.00;194.00
+||||Test nr.6 - Testovanie VOA;84.00;84.00
+|||Testovanie VOA;0.00;144.00
+||||WL nr. 3 VOA0;144.00;144.00
+|||Testovanie DTG;142.00;142.00
+|||Testovanie polarizacie 400;90.00;90.00
+||Design;0.00;2083.00
+|||R&D;0.00;1797.00
+||||TRL - Risk Management - Jaro;670.00;1419.00
+|||||Udpdate riskov;305.00;305.00
+|||||UML diagram vyvoja;232.00;232.00
+|||||risk management pre 400 - Tomas;194.00;211.00
+||||||Poznamky;16.97;16.97
+||||Fitovanie S-Line Scan 400;63.00;250.00
+|||||Talk s Jardom;187.00;187.00
+||||Talk - Jardo;127.00;127.00
+|||Specka komunikacneho protokolu / Jaro;209.00;209.00
+|||Test c. 1 - setup;59.40;59.40
+|||Test c.2 - setup;13.83;13.83
+|||Test c.1 - Mail;2.17;2.17
+||General;0.00;296.00
+|||Planovanie uloh - Jardo;77.00;77.00
+|||Vyroba snimacov;0.00;63.00
+||||Mail Marek / Tomas;63.00;63.00
+|||Summary 2016 - Jardo;48.73;48.73
+|||Update Eway;48.47;48.47
+|||Stav - Peto;33.20;33.20
+|||ASE zdroj;0.00;26.23
+||||Mail - Tomas / Fibercore;26.23;26.23
+|Production and Maintenance;0.00;2206.00
+||S-Line Scan 800;0.00;1275.00
+|||Testovanie switchu - Sercalo Paralell to Serial;221.00;634.00
+||||Testovanie ITR z ESIRIS - Jaro;250.00;278.00
+|||||Talk - Jardo;28.05;28.05
+||||Testovanie zariadenia;72.00;72.00
+||||Testovanie zostavy, Reinstall pocitaca - Jardo;62.00;62.00
+|||Zistenie chyby a oprava ITR 126233/0002;133.00;133.00
+|||Testovanie teplotneho rozsahu so switchom;0.00;120.00
+||||Vyhodnotenie merani;120.00;120.00
+|||Check switchu - Jardo / Tomas;91.00;91.00
+|||Vyroba na nasledujuce obdobie - 2016-Apr;60.00;80.00
+||||Update zoznamu;20.20;20.20
+|||Risk management;0.00;60.00
+||||Update zoznamu riskov;60.00;60.00
+|||Aktualny stav - 2016-Jul;24.50;51.50
+||||Talk - Peto / Jaro;27.00;27.00
+|||Diskusia - bug Osterbaai - Jaro;45.42;45.42
+|||Vysledky - Jaro;36.95;36.95
+|||Birefringence;19.00;19.00
+|||Vyroba pre Kiwa;2.85;2.85
+||Evidencia interogatorv;0.00;624.00
+|||Update zoznamu;358.00;358.00
+|||Prerobenie excelu;235.00;235.00
+|||Doplnenie informacii - Jaro / Ado;31.03;31.03
+||Testovanie sercalo switchu;95.00;95.00
+||Komunikacia s Bayspecom;76.00;76.00
+||Organizacia ulohy;0.00;53.02
+|||Brainstorming - Jaro;38.00;38.00
+|||Priprava materialov;15.02;15.02
+||Meeting - Peto / Tomas / Ado;31.00;31.00
+||Vyroba - meeting - Peto / Ado / Jaro;26.00;26.00
+||Vstupna kontrola interogatorov;0.00;13.33
+|||diskusia - Tomas;13.33;13.33
+||Upgrade Teamviewer lincencii;11.78;11.78
+|Design;0.00;1294.00
+||Testovanie Illumisense Wave;186.00;468.00
+|||EC test TTL request;78.00;198.00
+||||testovanie - Jaro;119.00;119.00
+|||Testovanie 804D;83.00;83.00
+||Modbus;19.10;306.00
+|||Modbus programovanie;275.00;287.00
+||||Komunikacia so sentinelom;11.85;11.85
+||Exalos - zdroj svetla - Peto / Jaro / Gabo;15.13;277.00
+|||Jardo - riesenie problemu;116.00;135.00
+||||Analyza udajov - Excel;18.83;18.83
+|||Fibera - konektorovanie;39.30;39.30
+|||Fibera setup;35.68;35.68
+|||Zaver;35.23;35.23
+|||Update zoznamu interogatorov;16.63;16.63
+||TFT mail;116.00;116.00
+||Vyvoj novych zariadeni - meeting Peto / Jaro;97.00;97.00
+||Research zariadeni - Jardo;28.87;28.87
+|General;0.00;169.00
+||Vyvoj na nasledujuce obdobie;1.00;126.00
+|||Talk - Jardo;96.00;96.00
+|||Mail - Jardo;28.92;28.92
+||Meeting - Miso / Edo / Peto / Jaro;37.45;37.45
+||Vyroba na nasledujuce obdobie;5.25;5.25
+|1830 - Datalogger;1.35;12.18
+||Design;0.00;10.83
+|||VW koncepty - studovanie;10.83;10.83
+1444 - Sentinel;12.82;11339.00
+|R&D;0.00;9611.00
+||Sentinel 2.0 - support;0.00;4817.00
+|||Meeting v Andise;1344.00;1344.00
+|||Vyber funkcii do prvej verzie 2.0;155.00;941.00
+||||Meeting s Andisom;144.00;295.00
+|||||Priprava na meeting;138.00;138.00
+|||||Posielanie mailu do Andisu;12.68;12.68
+||||Mail - funkcie Sentinelu;45.00;256.00
+|||||Aktualny stav - Mail - Kukuca;28.73;211.00
+||||||Priprava podkladov na meeting;182.00;182.00
+||||Casy usetrene novou verziou;78.00;78.00
+||||Fakturacia - Mail do Andisu;26.18;58.18
+|||||Talk - Peto;32.00;32.00
+||||Talk - Peto;38.00;38.00
+||||Talk - Tomas;33.23;33.23
+||||Meeting;21.27;21.27
+||||Meeting - Mail;6.40;6.40
+|||Andis meeting - zasadacka 1;423.00;423.00
+|||Sentinel 2.0.0.1;0.00;422.00
+||||Testovanie aplikacie;355.00;422.00
+|||||Mail Mojovi;66.00;66.00
+|||Testovanie nr.1;107.00;393.00
+||||Mail do Andisu;268.00;268.00
+||||Brainstorming - Jardo;17.23;17.23
+|||Andis - priprava;63.00;250.00
+||||Zasadacka - priprava;73.00;73.00
+||||Priprava na meeting c. 2;69.00;69.00
+||||Priprava na meeting - Jaro;44.98;44.98
+|||Andis meeting - zasadacka 2;226.00;226.00
+|||Meeting v Andise - switch 1x4;115.00;115.00
+|||Andis nacenenie;27.83;108.00
+||||Mail do Andisu;64.00;64.00
+||||Talk s Petom;15.63;15.63
+|||Sentinel 2.0.0.5;0.00;96.00
+||||Testovanie aplikacie;54.98;54.98
+||||Testovanie vzorcov;41.52;41.52
+|||Andis meeting - zasadacka 3;95.00;95.00
+|||Preco Linux;0.00;94.00
+||||napady;67.00;67.00
+||||Talk - Peto;26.95;26.95
+|||Sentinel 2.0.0.4;56.32;76.00
+||||Testovanie aplikacie;20.00;20.00
+|||Talk - Jardo;48.02;48.02
+|||Priprava na meeting - Jardo;31.00;31.00
+|||Sentinel 2.0 1. beta verzia;0.00;30.70
+||||Plan testov;30.70;30.70
+|||Talk - Peto;29.00;29.00
+|||Export / Import nastaveni;25.02;25.02
+|||Mailova komunikacia Andis;24.78;24.78
+|||Telefonat s Mojom;23.62;23.62
+|||Priprava interrogatora;17.07;17.07
+||Tvorba manualu / specifikacie;0.00;3478.00
+|||Sentinel specka;1506.00;1506.00
+|||koncepty S-line merani;137.00;913.00
+||||Doplnenie do manualu;743.00;743.00
+||||Flowcharty - Marek;33.07;33.07
+|||Sentinel brainstorming;121.00;433.00
+||||Brainstorming - Jaro;242.00;312.00
+|||||Peto meeting;69.00;69.00
+|||Koncepty dataloggerov / SW cast;184.00;261.00
+||||Talk - Jaro;76.00;76.00
+|||Sentinel - koncepty GUI - Marek meeting;149.00;149.00
+|||Meeting Peto / Jaro / Gabo;78.00;78.00
+|||Sentinel 2.0;53.53;53.53
+|||UML diagramy;35.48;35.48
+|||Dohodnutie dalsich krokov Sentinel 1.1 / 2.0;33.72;33.72
+|||Talk s Jardom ohladom S-line Scan 400;13.00;13.00
+||Sentinel 1.0;0.00;678.00
+|||Sentinel 1.0;3.87;678.00
+||||Testovanie bugfix ID1 Sentinel 1.0;144.00;235.00
+|||||Brainstroming dalsich krokov - Jaro;66.00;66.00
+|||||Navrh testov - Jaro;15.28;15.28
+|||||Talk s Petom o vysledkoch testov;9.52;9.52
+||||Testovanie Andis bugfix04;122.00;122.00
+||||Nove screenshoty;78.00;78.00
+||||Komunikacia s ANDIS;73.00;73.00
+||||Peto meeting ohladom uprav Sentinel 1.0;64.00;64.00
+||||Testovanie Andis bugfix03;30.62;30.62
+||||Testovanie Andis bugfix05 - final;25.52;25.52
+||||Final check 1.0 - Peto;23.20;23.20
+||||Testovanie Andis bugfix05;19.73;19.73
+||Dynamicke meranie - zaklady;0.00;402.00
+|||Dynamicke meranie UML;80.00;116.00
+||||Marek - Visio;35.85;35.85
+|||Talk s Petom - Sentinel dynamicke problemy;114.00;114.00
+|||Dynamicke meranie - priprava;96.00;96.00
+|||Koncepty dynamickeho merania;75.00;75.00
+||Testovanie 2.0;0.00;234.00
+|||Setup systemu;100.00;100.00
+|||Sumar zisteni;68.00;68.00
+|||Zistienia z meetingu;51.88;51.88
+|||Problem so spustenim SW;13.73;13.73
+|Prototyping & Testing;0.00;1021.00
+||Testovanie Sentinel 2.0;168.00;1021.00
+|||Test nr.1;233.00;233.00
+|||Nastavenie testov - Jarino;209.00;209.00
+|||Priprava bug-ov na meeting;120.00;208.00
+||||Priprava dokumentov;88.00;88.00
+|||Testovanie meeting - Tomas, Marek;73.00;73.00
+|||Zber informacii;70.00;70.00
+|||Konzultacia - Kukuca;58.08;58.08
+|Customer project / product maintenance;0.00;693.00
+||Vyhody Sentinel 2.0;436.00;466.00
+|||Talk - Peto;29.93;29.93
+||Sentinel Datasheet;133.00;133.00
+||Upgrade Definicneho suboru - referencovanie Strain;86.00;86.00
+||Testovanie FTP;7.77;7.77
+1875 - S-line Scan 800 - Attenuation / Max. number of sensors testing;0.00;6916.00
+|Testing & evaluation;0.00;5064.00
+||Testovanie maximalneho poctu sniamcov na kanal;923.00;1758.00
+|||Vyhodnotenie;100.00;429.00
+||||Logaritmizacia;151.00;151.00
+||||Diskusia - Jardo;133.00;133.00
+||||Problemy - Tomas - Margarethe;43.68;43.68
+|||Splitter testy;258.00;258.00
+|||postupne odstranenie snimacov;147.00;147.00
+||Testovanie polarizacie;39.62;1306.00
+|||Testovanie depolarizatora;493.00;493.00
+|||Tesovanie Polarizatora od Potroka;460.00;460.00
+|||Nove teplotne testy - deploarizator;144.00;144.00
+|||Vysvetlenie nefunkcnosti DEPOL - Potrok;90.00;90.00
+|||Hladania snimacov / upratanie;42.83;42.83
+|||Talk - Edo;35.00;35.00
+||Vyhodnotenie;0.00;1216.00
+|||Testovanie depolarizacie;484.00;484.00
+|||Postupne odstranenie snimacov;422.00;422.00
+|||Synchronizacia udajov;155.00;155.00
+|||Sumarizacia zisteni;106.00;153.00
+||||Talk - Jardo;47.67;47.67
+||Talk - Jardo;321.00;433.00
+|||Mail chalanom - objednanie vlakna;103.00;112.00
+||||Talk - Tomas;8.97;8.97
+||Vstupna kontrola - Micron + Sline 800;138.00;138.00
+||Vstupna kontrola - 400;108.00;108.00
+||Testovanie zvysovanie Dynamic Range;103.00;103.00
+|General;0.00;1540.00
+||Meeting - ILC / Chovan;392.00;425.00
+|||Priprava meetingu;33.00;33.00
+||Mail Chovanovi;185.00;185.00
+||Meeting - ITR / FFT issues;58.93;157.00
+|||zapis z meetingu;98.00;98.00
+||Aktualny stav ulohy - neuspesne testovanie;153.00;153.00
+||Preklopenie do Projectu;141.00;141.00
+||Priprava na meeting - ITR / FFT issues;99.00;99.00
+||Studium - depolarizacia zdroja;88.00;88.00
+||Mail do O-Eland;83.00;83.00
+||Research Pump laser + EDFA zdrojov;65.00;65.00
+||Mail - stav ulohy;49.65;49.65
+||Mail Bramovi;30.55;30.55
+||objednavka Depol;20.42;20.42
+||Mail - Marek / Plevi;17.80;17.80
+||Mail - Testovanie FSG;10.68;10.68
+||Stav - Talk Peto;7.22;7.22
+||Stav ulohy - eway;3.80;3.80
+|Design;0.00;311.00
+||Definicia uloh - Jardo;239.00;239.00
+||Mail;72.00;72.00
+Avago;0.00;5768.00
+|R&D Projects;0.00;5768.00
+||1742 - Low cost ITR;0.00;4983.00
+|||Testing & Evaluation;0.00;3805.00
+||||Testovanie - Sylex;48.00;2869.00
+|||||Vyhodnotenie Test #1 a #3;507.00;937.00
+||||||Priprava preliminary report;310.00;310.00
+||||||Priprava grafov;92.00;92.00
+||||||Vysledky - Jardo;15.55;15.55
+||||||Priprava udajov pre Dawida;11.55;11.55
+|||||Priprava 2. reportu;683.00;927.00
+||||||Doplnenie WL do reportu;105.00;105.00
+||||||Check reportu;78.00;78.00
+||||||Vyhodnotenie vysledkov;43.13;43.13
+||||||Check nakladov / Peto;17.42;17.42
+|||||Nastavenie test #1;549.00;549.00
+|||||Meeting - Avago;242.00;242.00
+|||||Prehlad testov;54.25;54.25
+|||||Vlakna na MS-03 - Tomas, Ado;41.32;41.32
+|||||Test interrogatora;34.20;34.20
+|||||Diskusia - Dawid;18.33;18.33
+|||||Test # 3;16.40;16.40
+||||Testovanie - kalibracia strain;454.00;628.00
+|||||Porovnanie MOI vs. Avago;74.00;74.00
+|||||Instalacia SW;66.00;66.00
+|||||Mail do Avaga;33.30;33.30
+||||Test #2;128.00;128.00
+||||Nastavenie komory;98.00;98.00
+||||Nastavenie test #2;80.00;80.00
+|||Design;0.00;736.00
+||||dohodnut s Avago plan testov;321.00;377.00
+|||||Meeting - Peto;44.12;44.12
+|||||Talk - Peto;8.65;8.65
+|||||Mail;3.92;3.92
+||||Temperature demonstrator - koncept;0.00;176.00
+|||||Athermal FBG;10.00;73.00
+||||||Zistovanie terminov;44.97;44.97
+||||||Cenove ponuky - mail;18.58;18.58
+|||||Koncept - Jaro / Mato;29.00;29.00
+|||||Phone call - Dawid;26.70;26.70
+|||||Mail - Magnus;18.73;18.73
+|||||BOM;17.23;17.23
+|||||Talk - Jaro;11.75;11.75
+||||Phone call;176.00;176.00
+||||Diskusia - Jaro;5.18;5.18
+|||General;0.00;308.00
+||||Business case - MR;86.00;219.00
+|||||Definicia custom WL pre 400;64.00;64.00
+|||||Talk - Peto;47.58;47.58
+|||||Talk - Peto / Edo;22.00;22.00
+||||phone conference;89.00;89.00
+|||Production;0.00;133.00
+||||Vyroba MS-03 + TP-02;19.17;133.00
+|||||Diskusia - Jaro / Marek / Michal;95.00;95.00
+|||||Diskusia - Marek;10.85;10.85
+|||||ISYS - Ado / Peto;7.98;7.98
+||1399 - OPI;0.00;784.00
+|||Vyroba vzoriek 2016_1;19.22;510.00
+||||Testovanie vzorky;137.00;251.00
+|||||Vyhodnotenie;114.00;114.00
+||||Nastavenie vzorky 2016_1;123.00;123.00
+||||Lepenie vzorky 2016_01;115.00;115.00
+|||Hladanie materialov na sklade / evidencia;174.00;174.00
+|||Sumarizacia doterajsich vsyledkov;0.00;85.00
+||||Brainstorming;76.00;76.00
+||||Diskusia - Edo;9.00;9.00
+|||Phone call Dawid;14.33;14.33
+Vyvojove ulohy;33.68;5701.00
+|Riadenie vyvojovych uloh;0.00;4972.00
+||Update Projectu;1800.00;2397.00
+|||Reporting;149.00;149.00
+|||Doplnenie Projectu Technica SA;140.00;140.00
+|||Stav uloh - Mail - Tomas;95.00;95.00
+|||Nove ulohy;57.10;57.10
+|||Update nakladov;49.18;49.18
+|||Doplnenie novych uloh - Tomas;41.00;41.00
+|||Diskusia - Tomas;33.00;33.00
+|||Rekonfiguracia - novy notebook;30.53;30.53
+||planovanie vyvojovych uloh na 2016;57.33;2073.00
+|||Hruby plan uloh;298.00;1566.00
+||||Project - Nastavenia;264.00;1224.00
+|||||Import Tomasovych uloh;366.00;366.00
+|||||Doplnenie hotovych uloh - mail - Tomas;280.00;280.00
+|||||Uprava - Tomas;224.00;224.00
+|||||Update HW uloh - Jaro;69.00;69.00
+|||||Vytvorenie Eway CRM - Ado;18.78;18.78
+||||meeting - Tomas;44.23;44.23
+|||Meeting Peto / Tomas / Gabo;352.00;352.00
+|||Meeting - Peto - aktualny stav;39.48;39.48
+|||Meeting - Edo;34.00;34.00
+|||Timecamp - Jardo;24.08;24.08
+||Doplnenie informacii do Projectu;201.00;201.00
+||Mail - rozpis uloh;113.00;113.00
+||Reporty pre Peta na poradu vedenia;72.00;72.00
+||Diskusia - Peto;50.00;50.00
+||Meeting - Tomas;40.27;40.27
+||Ulohy na 2016;0.87;23.03
+|||Zber udajov;22.17;22.17
+|TRL, TPL;139.00;476.00
+||TRL, TPL - Tomas;130.00;130.00
+||Studovanie dokumentov;120.00;120.00
+||TRL,TPL Meeting - Tomas / Gabo / Edo / Peto;86.00;86.00
+|Edo - meeting;137.00;137.00
+|Meeting - Edo / Peto / Tomas;81.00;81.00
+TOOZ;0.00;5564.00
+|Projects;0.00;5377.00
+||1609 - Podbiel;91.00;5377.00
+|||Evaluation;0.00;2349.00
+||||Vyhodnotenie prvych merani - WL to strain;809.00;1491.00
+|||||Testovanie MS-03 - bending strain;196.00;226.00
+||||||Testovanie MS-03 / SG-01 / MS-02 bending strain;30.00;30.00
+|||||Meeting - SjF - Analyza vysledkov;130.00;130.00
+|||||Diskusia - Tomas / MAto;109.00;109.00
+|||||Pridanie novych udajov;75.00;75.00
+|||||Averaging reportu;68.00;68.00
+|||||Rekonfiguracia snimacov;38.52;38.52
+|||||Diskusia - Tomas / Mato;19.37;19.37
+|||||Export udajov - Tomas;14.75;14.75
+||||Analyza Maj 2016;0.00;759.00
+|||||Referencovanie VDV;0.00;391.00
+||||||Vytvorenie .dat suboru;391.00;391.00
+|||||Referencovanie - Sentinel;1.28;115.00
+||||||Update definicneho suboru;114.00;114.00
+|||||Export uajov - cely mesiac;58.03;104.00
+||||||Generovanie reportu;46.23;46.23
+|||||VDV - referencovanie / research moznosti;53.52;53.52
+|||||Diskusia - Tomas;35.02;35.02
+|||||Talk - Tomas - detaily;33.33;33.33
+|||||Export udajov - obmedzena rychlost;27.12;27.12
+||||Analyza Jul 2016;0.00;51.12
+|||||Export udajov - cely mesiac;51.12;51.12
+||||Analyza Jun 2016;0.00;47.13
+|||||Export udajov - cely mesiac;47.13;47.13
+|||Production;0.00;1265.00
+||||VDV;0.00;776.00
+|||||Konfiguracia VDV / Marek skolenie;236.00;469.00
+||||||WL txt to VDV db;43.72;148.00
+|||||||Modifikacia udajov;105.00;105.00
+||||||Uprava WL a Sensor txt suborov;84.00;84.00
+|||||Vytvorenie Dashboard;97.00;97.00
+|||||Nastavenie konta;86.00;86.00
+|||||Virtual variables;80.00;80.00
+|||||Alert a Warning nastavenia;43.23;43.23
+||||Konficguracia Sentinel;461.00;461.00
+||||Instalacia S-line Sentinel;16.67;16.67
+||||Modem interrogatora + check merania;11.10;11.10
+|||Maintenance;0.00;975.00
+||||Vyjazd na Podbiel;491.00;491.00
+||||Kontrola Spectrum na S-Line Scan;337.00;337.00
+||||Priprava na vyjazd;79.00;79.00
+||||Restart pocitaca;44.42;44.42
+||||Diskusia - Jaro;24.00;24.00
+|||Design;0.00;625.00
+||||Debrecen - instalacna skrina;615.00;615.00
+||||Diskusia - Jaro - regulacia napatia;10.00;10.00
+|||General;0.00;69.00
+||||Meeting - Tomas / Synak;59.00;59.00
+||||skenovanie;10.95;10.95
+|Misc;0.00;186.00
+||Analyza nakladov;117.00;186.00
+|||Talk - Peto;58.00;58.00
+|||Mail;11.02;11.02
+Studium;0.00;5551.00
+|Microsoft Project;0.00;1742.00
+||Lynda.com - skolenie;1435.00;1435.00
+||Lynda.com - Managing Project Risk;306.00;306.00
+|Nove publikacie;317.00;1194.00
+||Bridge monitoring;519.00;519.00
+||Search;318.00;318.00
+||Fiber optic borehole seismic vector;39.03;39.03
+|HBM Webinar;137.00;628.00
+||Experimental stress analysis;213.00;213.00
+||Studium - HBM dokument - Tunnel;101.00;101.00
+||Optical sensing webinar;53.02;53.02
+||Fatigue life testing;51.58;51.58
+||Force measurement;39.00;39.00
+||Optical interrogator;32.47;32.47
+|Monitorovanie mostov;494.00;494.00
+|research - konkurencia;184.00;387.00
+||Smartec;0.00;109.00
+|||Porovnanie SOFO lite vs. Scan 400;109.00;109.00
+||Fiber optic firmy;64.00;64.00
+||Measurand - ShapeAccelArray;29.00;29.00
+|Lynda.com - Linux kurzy;305.00;305.00
+|Lynda.com - Advanced Microsoft Project;292.00;292.00
+|Webinar;0.00;150.00
+||LFW AFL distributed sensing;90.00;90.00
+||Smartec - 20 years of SHM;41.55;41.55
+||Smartec - SOFO Lite;19.12;19.12
+|Lynda.com - JIRA;93.00;93.00
+|Sensuron - Strain measurement;65.00;65.00
+|Synaptec clanok;57.93;57.93
+|Technica SA clanok;39.75;39.75
+|ISHMII Journal;28.80;28.80
+|Noria - LFW clanok;23.92;23.92
+|ICE manual of Geotechnical engineering;21.00;21.00
+|Lynda.com - Agile Project Management;18.87;18.87
+|EDN Eurpoe;5.77;5.77
+Organizacia mailov;1023.00;4918.00
+|Citanie mailov;3894.00;3894.00
+Osterbaai;0.00;4151.00
+|Projects;0.00;3826.00
+||1667 - Den Helder;202.00;3633.00
+|||Maintenance;0.00;3339.00
+||||Network repair;1475.00;1859.00
+|||||rekonfiguracia s-line scan;115.00;115.00
+|||||Kontrola def suboru;95.00;95.00
+|||||Update def suboru;81.00;81.00
+|||||Konfiguracia noveho ITR;55.00;55.00
+|||||Check intenzit WL;36.67;36.67
+||||Konfiguracia Sentinel - vymazanie probl. peakov;228.00;444.00
+|||||Check nastaveni;185.00;185.00
+|||||Mail Hilkovi;30.00;30.00
+||||Kontrola nastavenia snimacov;396.00;439.00
+|||||Vymazanie chybnych snimacov;24.93;24.93
+|||||Stav snimacov - Tomas;17.95;17.95
+||||Mail - Hilko - nastavenie snimacov;196.00;196.00
+||||Mail - Hilko - kontrola snimacov;58.25;58.25
+||||Mail - Stav snimacov - Hilko;50.00;50.00
+||||Phone call - Hilko / Tomas;42.83;42.83
+||||Nastavenie mailov - Hilko;40.48;40.48
+||||Meeting - oprava interogatora;40.00;40.00
+||||Diskusia - Tomas;39.82;39.82
+||||Konfiguracia noveho interogatora;28.37;28.37
+||||Topologia - Tomas;27.15;27.15
+||||Testovanie interogatora;20.73;20.73
+||||Diskusia problemy - Peto;18.40;18.40
+||||Diskusia - interrogator fail - Peto / Tomas / Ado;18.00;18.00
+||||Diskusia - termin instalacie;15.70;15.70
+|||General;0.00;92.00
+||||Mail - Hilko - microstrain problem;51.53;51.53
+||||Mail - Hilko - Maintenance casy;28.52;28.52
+||||Mail - Peto, Tomas;12.22;12.22
+||Vibration testing;0.63;192.00
+|||Analyza udajov;71.00;170.00
+||||Kodenie makra;85.00;85.00
+||||Analyza udajov pomocou makra;12.55;12.55
+|||Vibration sensors;21.87;21.87
+|Maintenance;0.00;266.00
+||Sentinel manual - Hilko;196.00;196.00
+||SW otazky od Hilka - Tomas;35.52;35.52
+||Konfguracia Sentinel;30.00;33.92
+|||Problem so sietou - Marek;3.92;3.92
+|Misc;0.00;58.88
+||campbell scientific riesenie;58.88;58.88
+FOI;0.00;3406.00
+|Vypomoc vo vyrobe - FOI;2743.00;2743.00
+|Barcode;0.00;410.00
+||Zistovanie problemu;3.33;318.00
+|||Testovanie softu;315.00;315.00
+||Meeting;62.00;62.00
+||Talk - Tomas;28.43;28.43
+|Meeting s Marianom;73.00;73.00
+|Prenasanie novych regalov;66.00;66.00
+|Organizacia - vypomoc - Meranie - meeting s Petom;55.22;55.22
+|Help Edovi v Projecte;51.00;51.00
+|Breakout makro;8.38;8.38
+GSM 2016;0.00;3252.00
+|Ucast na GSM 2016;1800.00;1800.00
+|Priprava materialov;435.00;1318.00
+||Poppi - MS-03;412.00;726.00
+|||Tvorba textu;264.00;264.00
+|||Uprava;30.13;30.13
+|||Talk - Peto;19.30;19.30
+||Poppi - Profil;84.00;84.00
+||Odpoved Johnovi;45.53;45.53
+||Phone call - Peto;19.12;19.12
+||Datasheet;7.65;7.65
+|Nastavenie Sentinelu;65.00;122.00
+||Otestovanie konfiguracneho suboru;56.87;56.87
+|Diskusia - Tomas;12.00;12.00
+1439 - Polyimide FFT;0.00;2832.00
+|Design;0.00;2392.00
+||Specifikacia standardnych vlnovych dlzok;153.00;2214.00
+|||Nova specka WL;562.00;1336.00
+||||Prerobenie sablony podla novych poziadaviek;623.00;636.00
+|||||Diskusia - Ado;13.00;13.00
+||||Finalizacia - Ado / Peto / Tomas;64.00;64.00
+||||Diskusia - Peto;24.75;24.75
+||||Custom zadanie;23.22;23.22
+||||Finalizacia - Ado;14.00;14.00
+||||Phone call - Tomas;11.28;11.28
+|||Re-check vsetkych WL;168.00;289.00
+||||Porovnanie teoretickych a realnych WL;108.00;108.00
+||||Kontrola PN vlakien;11.68;11.68
+|||Diskusia Peto / Gabo;179.00;179.00
+|||Diskusia Peto / Tomas / Gabo;83.00;83.00
+|||Diskusia Peto / Tomas / Gabo;78.00;78.00
+|||D-01 standardne WL;64.00;64.00
+|||Tomas - check definovanych WL;30.62;30.62
+||Transformer temperature monitoring;0.00;156.00
+|||Mail - Petovi;70.00;70.00
+|||Phone call - Magnus + diskusia s Petom;65.00;65.00
+|||Snimacia siet - Marek;13.15;13.15
+|||vzorky pre Avago;7.32;7.32
+||Spektrum FFT;21.42;21.42
+|Testing & Evaluation;0.00;226.00
+||Vyhodnotenie noveho BI vlakna;46.22;226.00
+|||Tomasov mail;173.00;173.00
+|||Diskusia ohladom polarizacie - Tomas;7.00;7.00
+|General;0.00;213.00
+||Priprava na meeting s Margarethe;157.00;157.00
+||Diskusia - Tomas - Variabilita parametrov FFT mriezok;31.00;31.00
+||Mail od Margarethe;24.90;24.90
+Inversion sensor;0.00;2652.00
+|Projects;0.00;2254.00
+||1776 - Displacement sensors;0.00;1788.00
+|||Evaluation;0.00;1380.00
+||||Vyhodnotenie kalibracie;199.00;1380.00
+|||||Kalibracia novych kusov;247.00;377.00
+||||||Vypocet predlzenia kalibrov;129.00;129.00
+|||||Vyvoj novej metody;145.00;197.00
+||||||Doplnenie verifikacnych cyklov;26.68;26.68
+||||||Doplnenie udajov;19.43;19.43
+||||||Doplnenie kalibrov;5.87;5.87
+|||||Prerabka logovacich suborov;141.00;141.00
+|||||Diskusia - Tomas;136.00;136.00
+|||||Overovacie cykly;96.00;96.00
+|||||Prerabka teplotnych kalibracii;85.00;85.00
+|||||Vypocet predlzenia kalibrov;73.00;73.00
+|||||Overenie kalibracie;34.18;34.18
+|||||Kompenzacia roztaznosti kalibrov;22.28;22.28
+|||||Rekalibracia na rigu - Plevi;15.13;15.13
+|||Production;0.00;240.00
+||||Vytvorenie kalibracnych listov - Marek;125.00;125.00
+||||Kalibracia snimacov - Plevi;88.00;88.00
+||||Nastavenie komory - kalibracia - Marek / Tomas;26.00;26.00
+|||Design;0.00;119.00
+||||Kalibracna sablona;68.00;68.00
+||||Vyroba D-01 a MS-01 FFT;34.32;34.32
+||||D-0x;0.00;16.12
+|||||Check WL range;16.12;16.12
+|||General;0.00;48.00
+||||Diskusia - Tomas / Marek;48.00;48.00
+||1723 - MS-01 / D-01;0.00;466.00
+|||Evaluation;0.00;466.00
+||||Vyhodnotenie kalibracii;226.00;466.00
+|||||Vypocet predlzeni;98.00;98.00
+|||||Overenie strainovej kalibracie;84.00;84.00
+|||||Check kalibracnych listov;37.02;37.02
+|||||Diskusia - Tomas;15.00;15.00
+|||||Overenie kalibracnych udajov;5.77;5.77
+|Misc;0.00;240.00
+||Check kalibracnych listov;183.00;183.00
+||Zlomene MS-01;47.00;57.00
+|||Talk - Tomas;10.00;10.00
+|Maintenance;0.00;157.00
+||Kalibracia MS-01 - Problem - Plevi;157.00;157.00
+1459 - Testy membran tlakovych snimacov;0.00;2514.00
+|Design;0.00;1995.00
+||Koncepty transducerov - meeting Mato;270.00;1995.00
+|||Priprava prezentacie;707.00;801.00
+||||Studium - geotechnicke pojmy;70.00;70.00
+||||Studium - strain-stress;24.25;24.25
+|||Piezometer - studium;472.00;472.00
+|||Studium - Load cell koncepty;366.00;366.00
+|||Nove technologie FBG;58.73;58.73
+|||Peto - transducery;25.97;25.97
+|Testing & evaluation;0.00;366.00
+||Vyhodnotenie kalibracie;154.00;351.00
+|||Prerabka vzorcov;136.00;136.00
+|||Diskusia - Tomas;50.85;50.85
+|||Overovacie cykly;9.52;9.52
+||Prehlad testov - mail;14.82;14.82
+|Production;0.00;152.00
+||Vyroba FFT membran - mail - zadanie;17.70;152.00
+|||Postup testov;67.00;67.00
+|||Kalibracia vzoriek;55.48;67.00
+||||Diskusia - Tomas;12.00;12.00
+1859 - S-line Scan 800 - Ejtech and Birefringence testing;0.00;2490.00
+|Testing & Evaluation;0.00;1682.00
+||Nastavenie testov;526.00;526.00
+||Testy S-line Scan;0.00;277.00
+|||Vyhodnotenie testov;143.00;143.00
+|||Nastavenie testov;87.00;87.00
+|||Diskusia - Jardo;47.00;47.00
+||Testy spotreby;0.00;194.00
+|||Nastavenie testov;173.00;173.00
+|||Vyhodnotenie;21.00;21.00
+||Vyhodnotenie bending testov;61.00;187.00
+|||Diskusia - Jardo;126.00;126.00
+||Testoavnie utlm vs vlnova dlzka;181.00;181.00
+||Testy kombinacie S-lin Scan a Switch;0.00;78.00
+|||Nastavanie testov;78.00;78.00
+||Vyhodnotenie druhych testov - Scrambler na MOI;77.00;77.00
+||Vyhodnotenie prvych testov - bez scramblera;61.00;61.00
+||Talk - Peto;40.00;40.00
+||Nastavenie komory;25.57;25.57
+||Vyhodnotenie tretieho testu - Scrambler na S-line Scan;21.07;21.07
+||Zber udajov;11.00;11.00
+|Design;0.00;667.00
+||Cenove ponuky na Polarization Switch / Scrambler;26.60;642.00
+|||Laser linewidth, Coherence length;246.00;246.00
+|||Zapojenie zariadenia;120.00;120.00
+|||Talk - Jaro;99.00;99.00
+|||Mail;41.17;41.17
+|||Diskusia - Peto / Bram / Tomas / Potrok;28.85;28.85
+|||Mail Bramovi;27.82;27.82
+|||Mail - Wajih;27.00;27.00
+|||Talk - Peto;25.20;25.20
+||Mail - doodnutie detailov;25.13;25.13
+|General;0.00;140.00
+||Fugro / Faz - Birefringence dokument;105.00;105.00
+||Meeting - Peto / Ado / Tomas / Jardo;31.00;31.00
+||Objednavka polarizatora;4.00;4.00
+SW na analyzu udajov;0.00;2336.00
+|zadanie uloh Danovi;69.00;1706.00
+||Priprava;19.53;1073.00
+|||Synchronizator;106.00;1054.00
+||||Testovanie;211.00;718.00
+|||||Visual Studio tasks;398.00;398.00
+|||||Priprava Test case-ov;108.00;108.00
+||||Example materialy / popis;228.00;228.00
+||Testovanie;222.00;222.00
+||Podrobny rozpis uloh;174.00;174.00
+||Talk Dano;130.00;130.00
+||Testovanie c.3;35.78;35.78
+|Specka - meeting - Marek;140.00;602.00
+||Testovanie c.2;289.00;289.00
+||Testovanie c.1;145.00;145.00
+||Zadanie uloh Danovi - Marek;26.68;26.68
+|Meeting - Marek / Peto;28.00;28.00
+Eurovia;0.00;2308.00
+|Projects;0.00;2308.00
+||1426 - Stary most;5.02;2308.00
+|||Maintenance;0.00;1591.00
+||||rekonfiguracia sieti;18.00;1057.00
+|||||Najst spravne definicie snimacov;361.00;361.00
+|||||Zapojenie snimacov;152.00;152.00
+|||||Check intenzit peakov;141.00;141.00
+|||||Nulovanie snimacov;127.00;127.00
+|||||Nastavenie integration time a threshold;116.00;116.00
+|||||Stary most - aktualny stav - mail;99.00;99.00
+|||||SHP - mail ohladom nenulovanych snimacov;20.85;20.85
+|||||Check WL logov;20.55;20.55
+||||Vyjazd na Stary most - Jaro;201.00;201.00
+||||Instalacia Sentinel bugfix07 - novy vzorec na novy komp;117.00;117.00
+||||Reinstall Teamvieweru;47.38;47.38
+||||instalacia Sentinel - Andis bugfix01;45.88;45.88
+||||Test interogatora;10.65;45.65
+|||||Konfiguracia Sentinel;35.00;35.00
+||||Nachystanie veci;45.00;45.00
+||||Instalacia Sentinel bugfix07 - novy vzorec;30.77;30.77
+|||Production;0.00;511.00
+||||instalacia;511.00;511.00
+|||Evaluation;0.00;200.00
+||||Check Sensor Log;121.00;138.00
+|||||Talk - Peto;16.80;16.80
+||||clanok do IS;20.82;20.82
+||||SHP komunikacia;20.67;20.67
+||||Petov report- check;15.90;15.90
+||||Check reportov;4.73;4.73
+Getec;42.65;2280.00
+|Projects;0.00;1740.00
+||1755 - Tendon strand monitoring;20.08;1210.00
+|||Maintenance;0.00;624.00
+||||Interrogator - mail - Justin;25.55;524.00
+|||||Instalacia Sentinel - Paul;133.00;133.00
+|||||Instalacia Sentinel - Justinov laptop;128.00;128.00
+|||||Instalacia Sentinel;99.00;99.00
+|||||Check interogatora;75.00;75.00
+|||||Instalacia Sentinel 2. interrogator;46.83;46.83
+|||||Paul - problemy s interogatorom;15.00;15.00
+||||Instalacia Sentinel - Daniel;70.00;70.00
+||||Paul - problem so snimacom - Mail - Peto;30.00;30.00
+|||Design;0.00;449.00
+||||Konfiguracia SC-11;0.43;362.00
+|||||Manual na nulovanie snimacov;178.00;178.00
+|||||Diskusia - Peto;112.00;112.00
+|||||Vytvorenie config suboru;71.00;71.00
+||||Koncept - Peto;75.00;75.00
+||||CSIC - distributed riesenie;11.97;11.97
+|||General;0.00;80.00
+||||Meeting Peto / Ado / Tomas;58.72;58.72
+||||Mail Peto / Ado / Tomas;20.90;20.90
+||||Vizum - vybavenie;1.10;1.10
+|||Evaluation;0.00;36.00
+||||Kalibracia SC-11;36.00;36.00
+||1707 - Tideway Central Sewer Monitoring;0.00;307.00
+|||Production;0.00;307.00
+||||Testovanie sieti / konfiguracia Sentinel;298.00;298.00
+||||Kalibracia;8.93;8.93
+||1191 - Hamburg Sewer;1.03;142.00
+|||Maintenance;0.00;141.00
+||||Instalacia Sentinel 1.0 (Andis bugfix05);123.00;123.00
+||||Nastavenie SW;18.17;18.17
+||Pile monitoring;0.00;79.00
+|||General;0.00;79.00
+||||Historia mailov / analyza udajov;51.87;51.87
+||||Diskusia - Peto;28.00;28.00
+|Misc;0.00;268.00
+||Meeting - Julian;0.85;167.00
+|||Priprava;166.00;166.00
+||Zoznam zariadeni pre Ada;61.00;61.00
+||Sewer monitoring;30.00;30.00
+||Smart cable;10.13;10.13
+|R&D Projects;0.00;174.00
+||1514 - Channel Tunnel;100.00;174.00
+|||Design;0.00;50.12
+||||Konfiguracia Sentinel;50.12;50.12
+|||Testing & Evaluation;0.00;23.92
+||||Kalibracia - vyhodnotenie;23.92;23.92
+|Maintenance;0.00;53.53
+||Konfiguracia snimacov na vystavu;47.03;47.03
+||Interrogator problem - Justin;6.50;6.50
+Capris;3.83;2129.00
+|Projects;0.00;2117.00
+||660 - Bridge in Costa Rica;0.00;2117.00
+|||Evaluation;0.00;1640.00
+||||LC-02 vs. EPS;0.00;1290.00
+|||||Nastavenie testov;934.00;934.00
+|||||Vyhodnotenie;307.00;307.00
+|||||Diskusia - Peto;48.58;48.58
+||||Encardio rite EPS setup;117.00;207.00
+|||||Test - Jardo;90.00;90.00
+||||Kalibracia LC-02;83.00;143.00
+|||||Kalibracia fakulta - support chalani;48.00;48.00
+|||||Prenos zavazi;12.00;12.00
+|||General;0.00;476.00
+||||Mail Alexisovi;107.00;469.00
+|||||Total Soil Stress;271.00;271.00
+|||||Phone conference - MCH / Capris / Lowy;84.00;84.00
+|||||Kupa Total Soil Pressure Cell z Geosense - Peto;4.98;4.98
+||||Diskusia Peto/Tomas;7.00;7.00
+|Koncepty;7.93;7.93
+1443 - MS-03;13.60;1906.00
+|Testing & Evaluation;0.00;1544.00
+||MS-03 navarena na ocelovu platnu;70.00;1447.00
+|||Vyhodnotenie merani;803.00;820.00
+||||Talk - Tomas;17.00;17.00
+|||Talk - Tomas;242.00;242.00
+|||Nsatevenie testov;176.00;176.00
+|||Navaranie - Mato - fakulta;115.00;115.00
+|||Mail - Tomas, Mato;23.32;23.32
+||Kalibracia;81.00;81.00
+||Kalibracia - help;16.45;16.45
+|Design;0.00;241.00
+||Diskusia - teplotny behavior / Tomas;140.00;201.00
+|||Diskusia - Tomas / Mato;36.00;36.00
+|||Check vysledkov;25.08;25.08
+||Diskusia - Tomas;40.00;40.00
+|General;0.00;106.00
+||MS-03 meeting;91.00;91.00
+||Stav MS-03;15.00;15.00
+1913 - Testing of pressure sensors (Fugro);0.00;1697.00
+|Testing & Evaluation;0.00;1697.00
+||Vyhodnotenie kalibracie;938.00;938.00
+||Kalibracia snimaca - Brano;758.00;758.00
+Fugro;0.00;1407.00
+|Projects;0.00;1102.00
+||1806 - Pile monitoring;0.00;1102.00
+|||Production;0.00;392.00
+||||Kalibracne listy - Plevi;183.00;239.00
+|||||kontrola;55.87;55.87
+||||kalibracia vzoriek - Plevi;152.00;152.00
+|||General;0.00;265.00
+||||Export udajov - Podbiel;145.00;171.00
+|||||Talk - Tomas;25.30;25.30
+||||Vysvetlenie teplotnej kalibracie - Devrez;94.00;94.00
+|||Maintenance;0.00;169.00
+||||Najst spravny kalibraciu;169.00;169.00
+|||Evaluation;0.00;164.00
+||||Skuska kalibracie MS-03;91.00;99.00
+|||||diskusia - marek;8.00;8.00
+||||kalibracia;65.00;65.00
+|||Design;0.00;109.00
+||||Devrez - MS-03 request;3.13;109.00
+|||||Check Tomasova tabulka;60.00;60.00
+|||||Check WL range;46.10;46.10
+|R&D Projects;0.00;223.00
+||1743 - Fugro - Strain insert testing;0.00;223.00
+|||Design;0.00;223.00
+||||Devrez - phone conference;216.00;216.00
+||||Studovanie problematiky;6.30;6.30
+|General;0.00;82.00
+||Pomoc pri vyhodnteni kalibracie;73.00;73.00
+||Mail - Peto / Belus;9.30;9.30
+Timecamp;0.00;1342.00
+|Report pre Peta;51.47;605.00
+||Report August - November;129.00;364.00
+|||Analyza - Marekov report;194.00;194.00
+|||Analyza - Petov report;41.30;41.30
+||Celorocny report;139.00;189.00
+|||Talk - Peto;50.00;50.00
+|Vyrvorenie kategorii;267.00;417.00
+||Skuska importu - Marek;59.22;59.22
+||Talk - Peto;52.35;52.35
+||Check importu;23.77;23.77
+||Help - Mato;15.00;15.00
+|Organizacia uloh;100.00;140.00
+||Doplnenie chybajucich casov;40.50;40.50
+|Meeting;114.00;114.00
+|Priprava na meeting;60.00;60.00
+|Mail;4.90;4.90
+Kiwa;0.65;1198.00
+|Projects;0.00;1046.00
+||1368 - Benthuizen;0.00;862.00
+|||Evaluation;0.00;710.00
+||||Benthuizen - analyza udajov;352.00;710.00
+|||||Vypocet stress;185.00;357.00
+||||||Nastavenie snimaca u Robberta;71.00;71.00
+||||||Novy vzorec do Sentinel;70.00;70.00
+||||||Mail - Robbert;31.38;31.38
+|||Maintenance;0.00;152.00
+||||Benthuizen - update Sentinel;92.00;92.00
+||||Benthuizen rekonfiguracia;58.02;58.02
+||||Benthuizen S-line View problemy;2.57;2.57
+||Sandworm;0.00;183.00
+|||Sandworm 2;0.00;102.00
+||||Konfiguracia Sentinel;102.00;102.00
+|||Testovanie Sandworm;81.00;81.00
+|Maintenance;0.00;151.00
+||Instalacia S-line comp;151.00;151.00
+CERN;23.00;1037.00
+|Meeting;480.00;480.00
+|Priprava - Plevi;215.00;215.00
+|Talk - Peto;178.00;178.00
+|Phone call;58.00;58.00
+|Instalacia Sentinel;40.00;40.00
+|Priprava veci na meeting;18.23;18.23
+|Mail od Peta;13.87;13.87
+|Talk - Tomas;10.00;10.00
+Organizacne veci;0.00;773.00
+|FOS meeting;304.00;304.00
+|Meeting - Marek - stahovanie;29.13;118.00
+||stahovanie;84.00;84.00
+||Upratanie OPI skrine;5.40;5.40
+|Upratanie stola;101.00;112.00
+||Prenasanie veci;11.00;11.00
+|Meeting - Peto;73.00;73.00
+|Vyroba pocas dovoleniek - Marek / Tomas;66.00;66.00
+|BOZP skolenie;60.00;60.00
+|Call s Tomasom;40.00;40.00
+S-line View 1.0;0.00;680.00
+|General;0.00;503.00
+||Simulacia casov nastavenia VDV;184.00;196.00
+|||Talk - Peto;12.10;12.10
+||Cloud monitoring solutions;84.00;84.00
+||Priprava na phone call s Thorarinnom;66.00;66.00
+||Phone call s Thorarinnom;53.03;53.03
+||Otazky ohladom Dashboard - Thorarinn;51.10;51.10
+||Riesenie zemny poctu snimacov - Thorarinn, Andres;32.70;32.70
+||Otazky na Thorarinna ohladom alert a warning;19.23;19.23
+|Maintenance;0.00;177.00
+||VDV 2016;67.00;141.00
+|||Backup / Instalacia;73.00;73.00
+||Sprava servera;36.23;36.23
+FOS - others;0.00;636.00
+|Kalibracne makra;0.00;636.00
+||Nove makro pre teplotne snimace;474.00;636.00
+|||Novy vzorec;92.00;92.00
+|||Implementacia do Sentinelu 1.0;37.70;37.70
+|||Check novych kalibracnych listov;17.88;17.88
+|||Novy vzorec do kalibracnych listov;13.58;13.58
+Problemy;0.00;515.00
+|Nastavenie notebooku;230.00;230.00
+|Zalohovanie udajov;114.00;114.00
+|Cistenie kompu - odinstalovanie;81.00;81.00
+|Oprava notebooku;75.00;75.00
+|Problem s TeamViewer;14.52;14.52
+1855 - Mortar project;0.00;503.00
+|Testing & Evaluation;0.00;503.00
+||Prvy tyzden logovania;197.00;197.00
+||Zapnutie testov;150.00;150.00
+||Logovanie;106.00;106.00
+||Uprava logovania, upratanie kablov;26.03;26.03
+||Zapnutie testov - Plevi;24.48;24.48
+EC -Test systems;0.00;480.00
+|Misc;0.00;309.00
+||Illumisense Wave / Strain datasheet;69.00;69.00
+||Interrogator tender;58.35;58.35
+||Prerobenie kalibracnych listov;53.37;53.37
+||Check kalibracnych listov;52.83;52.83
+||Illumisense Wave / Strain;43.72;43.72
+||Testovanie zaraidenia;32.40;32.40
+|Projects;0.00;105.00
+||1713 - Naval Academy;0.00;87.00
+|||General;0.00;87.00
+||||Uvod;56.55;56.55
+||||Diskusia - Ado;31.03;31.03
+||1750 - Bridge monitoring;0.00;17.68
+|||General;0.00;17.68
+||||Uvod;17.68;17.68
+|Maintenance;0.00;65.00
+||Instalacia Sentinel;65.00;65.00
+Actphast;0.00;411.00
+|Meeting - Peto / Edo / Gabo;229.00;229.00
+|Kick-off meeting;75.00;75.00
+|Phone conference - Edo;70.00;70.00
+|Maily;22.65;22.65
+|Diskusia - Peto;15.00;15.00
+MS Systems;0.00;386.00
+|Projects;0.00;386.00
+||1897 - Kuryk project;0.00;204.00
+|||Production;0.00;126.00
+||||Nastavenie / test zostavy;111.00;111.00
+||||Check kalibracnych listov;15.52;15.52
+|||General;0.00;77.00
+||||Lokalizacia Sentinelu;0.00;77.00
+|||||Mail;77.00;77.00
+||1715 - Harbor project;0.00;181.00
+|||Production;0.00;155.00
+||||Nastavenie MOI pre problematicke peaky - teplotna kalibracia;94.00;94.00
+||||Testovanie S-line Scan+comp;55.08;55.08
+||||Check kalibracnych listov;6.10;6.10
+|||Evaluation;0.00;26.00
+||||Check Tomasovho reportu;26.00;26.00
+FBGS;0.00;315.00
+|Misc;0.00;242.00
+||Vyhodnotenie kalibracie TC-03;125.00;125.00
+||Mail ohladom FFT a PI;23.03;68.00
+|||Talk - Jardo;26.38;26.38
+|||Talk - Peto;9.75;9.75
+|||Mail do Fugra / Faz - Tomas;9.65;9.65
+||Check kalibracnych dokumentov - TC-03;40.17;40.17
+||Check kalibracnych listov;7.92;7.92
+|Projects;0.00;73.00
+||Kvalifikacia S-line Scan;0.00;38.70
+|||Mail - Bram;38.70;38.70
+||PI Femtosecond fiber;0.00;34.47
+|||Mail - Peto / Bram;34.47;34.47
+1756 - Vibracne testy;108.00;295.00
+|Design;0.00;186.00
+||Meeting s Chmelkom na SjF;105.00;105.00
+||Dohodnutie detailov s Matom;60.00;81.00
+|||Mail;20.62;20.62
+Ejtech;0.00;275.00
+|Projects;0.00;188.00
+||XXX - Interrogator;0.00;188.00
+|||Production;0.00;135.00
+||||Balenie / Priprava / nastavenie / testovanie / kalibracne listy;92.00;92.00
+||||Kalibracne listy - Plevi;43.33;43.33
+|||General;0.00;53.30
+||||Mail - vysledky testov;53.30;53.30
+|General;0.00;86.00
+||Testovanie interogatorov - Jardo;86.00;86.00
+Technobis;0.00;259.00
+|Meeting;180.00;180.00
+|Talk - Peto;73.00;73.00
+|Rolfov email;6.25;6.25
+1818 - D-0x FFT;0.00;246.00
+|Design;0.00;246.00
+||Makro na kalibraciu;246.00;246.00
+Audit;0.00;230.00
+|Priprava na audit;0.00;200.00
+||Vyvojove ulohy - Edo;147.00;147.00
+||PO na TimeCamp;52.67;52.67
+|Meeting;30.00;30.00
+ANV s.r.o.;0.00;227.00
+|General;0.00;227.00
+||Introduction meeting;227.00;227.00
+Vyrobne zariadenia v SX;0.00;208.00
+|Strain rig;10.65;152.00
+||Uprava kalibracneho makra;57.15;57.15
+||Kalibracia, diskusia - Tomas;50.75;50.75
+||Vymena Thorlabs;33.55;33.55
+|MO SM125;0.00;56.00
+||Problem SM125;28.60;56.00
+|||Mail do Micron Optics;27.40;27.40
+Tencate;0.00;199.00
+|General;0.00;199.00
+||S-line Scan - 10 years warranty risk management;147.00;147.00
+||Olivier - SCN86 request;51.05;51.05
+Anglictina;186.00;186.00
+Geosinergia;0.00;172.00
+|Maintenance;0.00;172.00
+||Pressure calibration formula - P-01;0.00;172.00
+|||Mail - Alexis;172.00;172.00
+All employee;167.00;167.00
+NIF zrt.;0.00;144.00
+|Mail do madarciny;144.00;144.00
+Magistrat Bratislavy;0.00;129.00
+|Misc;0.00;129.00
+||Priprava na meeting;0.00;72.00
+|||Nachystanie ITR;45.07;45.07
+|||Meeting - Peto/Tomas;27.00;27.00
+||Mail od Peta;31.22;31.22
+||Mailing;25.90;25.90
+Encardio Rite;0.00;118.00
+|Misc;0.00;118.00
+||Priprava na meeting;63.00;63.00
+||Meeting;55.00;55.00
+Slovnaft;0.00;110.00
+|General;0.00;110.00
+||Priprava na meeting;110.00;110.00
+Technicasa;44.42;101.00
+|Misc;0.00;56.80
+||introduction;56.80;56.80
+Samuel Igor - diplomova praca;0.00;98.00
+|Zadanie uloh - Jardo;98.00;98.00
+Monitoring Systems;95.00;95.00
+Smartfibres;0.77;92.00
+|Misc;0.00;91.00
+||Vypocet vyosenia snimaca - Tomas;62.00;62.00
+||Kalibracia;26.23;26.23
+||FWHM a Reflectivity;3.07;3.07
+Lactec;0.00;83.00
+|Misc;0.00;83.00
+||Mail od Ada;63.00;63.00
+||Meranie elongation pomocou SC-01 - Tomas;20.00;20.00
+SVF STU;0.00;82.00
+|Imrich Liptak;0.00;82.00
+||Lucia;0.00;46.00
+|||Teplotna kalibracia - mail;46.00;46.00
+||Exkurzia;36.00;36.00
+Geo Van;0.00;74.00
+|Misc;0.00;40.00
+||Zistvanie problemu na ES-01;40.00;40.00
+|General;0.00;34.23
+||Definicia custom WL pre D-02;34.23;34.23
+Geodestek;0.00;70.00
+|Misc;0.00;70.00
+||Introduction mail;70.00;70.00
+Exalos;0.00;70.00
+|General;0.00;70.00
+||Meeting;70.00;70.00
+Opticke zvaracie kable;0.00;56.12
+|Studium principu;56.12;56.12
+Portuguese research institue;0.00;52.60
+|Introduction;52.60;52.60
+Pont-terv;0.00;45.18
+|General;0.00;45.18
+||Introduction mail - preklad;45.18;45.18
+Publikacie;0.00;38.73
+|VDV publikacie;0.00;29.82
+||Prehlad existujucich publikacii;29.82;29.82
+|Napady - Tomas;8.92;8.92
+Osmos;0.00;37.53
+|Misc;0.00;37.53
+||Talk - Peto;37.53;37.53
+Missure Mecanicche;0.00;32.78
+|General;0.00;32.78
+||Check kalibracnych listov;32.78;32.78
+FOS - General;0.00;26.95
+|General;0.00;26.95
+||Nove kalibracne sablony pre teplotne snimace;26.95;26.95
+Distrelec;0.00;24.85
+|Meeting;24.85;24.85
+Producteev;0.00;24.72
+|Tutorials;24.72;24.72
+Savcor;0.00;24.53
+|Projects;0.00;24.53
+||Crussel bridge;0.00;24.53
+|||General;0.00;24.53
+||||Uvod;24.53;24.53
+Cellco;0.00;21.88
+|Maintanance;0.00;13.00
+||Vypocet WL pri 85C;13.00;13.00
+|Misc;0.00;8.88
+||Check OSA;8.88;8.88
+Socotec;0.00;21.12
+|Projects;0.00;21.12
+||XXX - Gregory 1;0.00;21.12
+|||Accelerometer check;21.12;21.12
+GSM 2017;0.00;17.22
+|Introduction;17.22;17.22
+RST instruments;0.00;16.98
+|Misc;0.00;16.98
+||Introduction mail;16.98;16.98
+Zerlux Hungary;0.00;14.23
+|Introduction;14.23;14.23
+1438 - Testy teplotnej kompenzacia;0.00;13.03
+|Design;0.00;13.03
+||Technologia - Tomas- Meeting;13.03;13.03
+GoToMeeting;0.00;10.00
+|Introduction;10.00;10.00
+Agidens;0.00;9.92
+|Misc;0.00;9.92
+||Uvod;9.92;9.92
+Zilinska univerzita;0.00;6.13
+|Check kalibracnych listov;6.13;6.13
+Sales - quick request;3.37;3.37
+(time without task assigned);0.88;0.88
+Total;105429.00;105429.00
+;0.00;0.00
